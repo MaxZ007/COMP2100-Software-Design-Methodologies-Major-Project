@@ -1,0 +1,7003 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<cars>
+    <car id="0">
+        <coding>0</coding>
+        <name>TESLA MOTORS Model S</name>
+        <location>Perth</location>
+        <price>139218</price>
+        <year>2009</year>
+    </car>
+    <car id="1">
+        <coding>1</coding>
+        <name>LADA Kalina Sedan</name>
+        <location>Sydney</location>
+        <price>211629</price>
+        <year>2020</year>
+    </car>
+    <car id="2">
+        <coding>2</coding>
+        <name>HONDA Odyssey</name>
+        <location>Townsville</location>
+        <price>197874</price>
+        <year>2012</year>
+    </car>
+    <car id="3">
+        <coding>3</coding>
+        <name>RENAULT Talisman Estate</name>
+        <location>Toowoomba</location>
+        <price>111995</price>
+        <year>2020</year>
+    </car>
+    <car id="4">
+        <coding>4</coding>
+        <name>TESLA MOTORS Model Y</name>
+        <location>Geelong</location>
+        <price>545441</price>
+        <year>2007</year>
+    </car>
+    <car id="5">
+        <coding>5</coding>
+        <name>JEEP Gladiator</name>
+        <location>Geelong</location>
+        <price>689136</price>
+        <year>2007</year>
+    </car>
+    <car id="6">
+        <coding>6</coding>
+        <name>INFINITI QX70</name>
+        <location>Norfolk Island</location>
+        <price>885478</price>
+        <year>2008</year>
+    </car>
+    <car id="7">
+        <coding>7</coding>
+        <name>ISUZU MU-7</name>
+        <location>Toowoomba</location>
+        <price>524723</price>
+        <year>2011</year>
+    </car>
+    <car id="8">
+        <coding>8</coding>
+        <name>Mahindra Verito</name>
+        <location>Cairns</location>
+        <price>314918</price>
+        <year>2018</year>
+    </car>
+    <car id="9">
+        <coding>9</coding>
+        <name>SUBARU WRX STI</name>
+        <location>Norfolk Island</location>
+        <price>414002</price>
+        <year>2015</year>
+    </car>
+    <car id="10">
+        <coding>10</coding>
+        <name>SEAT Ateca</name>
+        <location>Cocos Keeling Islands</location>
+        <price>825491</price>
+        <year>2015</year>
+    </car>
+    <car id="11">
+        <coding>11</coding>
+        <name>MASERATI MC20</name>
+        <location>Toowoomba</location>
+        <price>405466</price>
+        <year>2002</year>
+    </car>
+    <car id="12">
+        <coding>12</coding>
+        <name>BENTLEY Bentayga</name>
+        <location>Geelong</location>
+        <price>358296</price>
+        <year>2019</year>
+    </car>
+    <car id="13">
+        <coding>13</coding>
+        <name>ZENDER Escape 6</name>
+        <location>Norfolk Island</location>
+        <price>681678</price>
+        <year>2016</year>
+    </car>
+    <car id="14">
+        <coding>14</coding>
+        <name>BMW X7</name>
+        <location>Norfolk Island</location>
+        <price>978167</price>
+        <year>2006</year>
+    </car>
+    <car id="15">
+        <coding>15</coding>
+        <name>LINCOLN Corsair</name>
+        <location>Canberra</location>
+        <price>190413</price>
+        <year>2000</year>
+    </car>
+    <car id="16">
+        <coding>16</coding>
+        <name>DODGE Charger SRT Hellcat Widebody</name>
+        <location>Geelong</location>
+        <price>460764</price>
+        <year>2016</year>
+    </car>
+    <car id="17">
+        <coding>17</coding>
+        <name>SMART EQ fortwo</name>
+        <location>Brisbane</location>
+        <price>52814</price>
+        <year>2016</year>
+    </car>
+    <car id="18">
+        <coding>18</coding>
+        <name>BMW 8-Series Convertible</name>
+        <location>Cocos Keeling Islands</location>
+        <price>182826</price>
+        <year>2000</year>
+    </car>
+    <car id="19">
+        <coding>19</coding>
+        <name>MERCURY Mariner</name>
+        <location>Brisbane</location>
+        <price>212715</price>
+        <year>2016</year>
+    </car>
+    <car id="20">
+        <coding>20</coding>
+        <name>GEELY Emgrand EC718</name>
+        <location>Gold Coast</location>
+        <price>83505</price>
+        <year>2000</year>
+    </car>
+    <car id="21">
+        <coding>21</coding>
+        <name>HINDUSTAN Pushpak</name>
+        <location>Christmas Island</location>
+        <price>808843</price>
+        <year>2012</year>
+    </car>
+    <car id="22">
+        <coding>22</coding>
+        <name>ROLLS-ROYCE Ghost</name>
+        <location>Gold Coast</location>
+        <price>222213</price>
+        <year>2013</year>
+    </car>
+    <car id="23">
+        <coding>23</coding>
+        <name>MCLAREN 765LT</name>
+        <location>Toowoomba</location>
+        <price>199053</price>
+        <year>2016</year>
+    </car>
+    <car id="24">
+        <coding>24</coding>
+        <name>MINI Countryman</name>
+        <location>Gold Coast</location>
+        <price>985923</price>
+        <year>2008</year>
+    </car>
+    <car id="25">
+        <coding>25</coding>
+        <name>PERODUA Alza</name>
+        <location>Geelong</location>
+        <price>623290</price>
+        <year>2008</year>
+    </car>
+    <car id="26">
+        <coding>26</coding>
+        <name>LEXUS IS</name>
+        <location>Jervis Bay</location>
+        <price>186335</price>
+        <year>2016</year>
+    </car>
+    <car id="27">
+        <coding>27</coding>
+        <name>RENAULT Talisman Estate</name>
+        <location>Brisbane</location>
+        <price>69452</price>
+        <year>2008</year>
+    </car>
+    <car id="28">
+        <coding>28</coding>
+        <name>DAEWOO Nubira Hatchback</name>
+        <location>Melbourne</location>
+        <price>384856</price>
+        <year>2019</year>
+    </car>
+    <car id="29">
+        <coding>29</coding>
+        <name>TESLA MOTORS Model Y</name>
+        <location>Christmas Island</location>
+        <price>633836</price>
+        <year>2005</year>
+    </car>
+    <car id="30">
+        <coding>30</coding>
+        <name>SUZUKI Ignis</name>
+        <location>Melbourne</location>
+        <price>430807</price>
+        <year>2012</year>
+    </car>
+    <car id="31">
+        <coding>31</coding>
+        <name>JEEP Compass</name>
+        <location>Perth</location>
+        <price>555340</price>
+        <year>2016</year>
+    </car>
+    <car id="32">
+        <coding>32</coding>
+        <name>BUFORI V6i</name>
+        <location>Jervis Bay</location>
+        <price>885794</price>
+        <year>2018</year>
+    </car>
+    <car id="33">
+        <coding>33</coding>
+        <name>QOROS 5</name>
+        <location>Hobart</location>
+        <price>710116</price>
+        <year>2002</year>
+    </car>
+    <car id="34">
+        <coding>34</coding>
+        <name>DR MOTOR dr CityCross</name>
+        <location>Norfolk Island</location>
+        <price>784680</price>
+        <year>2002</year>
+    </car>
+    <car id="35">
+        <coding>35</coding>
+        <name>VOLVO V90</name>
+        <location>Toowoomba</location>
+        <price>170837</price>
+        <year>2014</year>
+    </car>
+    <car id="36">
+        <coding>36</coding>
+        <name>MINI Clubman</name>
+        <location>Brisbane</location>
+        <price>61069</price>
+        <year>2003</year>
+    </car>
+    <car id="37">
+        <coding>37</coding>
+        <name>MERCEDES BENZ S-Class</name>
+        <location>Caloundra</location>
+        <price>232265</price>
+        <year>2015</year>
+    </car>
+    <car id="38">
+        <coding>38</coding>
+        <name>CITROEN AMI</name>
+        <location>Gold Coast</location>
+        <price>432761</price>
+        <year>2016</year>
+    </car>
+    <car id="39">
+        <coding>39</coding>
+        <name>HINDUSTAN Ambassador</name>
+        <location>Melbourne</location>
+        <price>912304</price>
+        <year>2007</year>
+    </car>
+    <car id="40">
+        <coding>40</coding>
+        <name>TOYOTA Land Cruiser 200</name>
+        <location>Townsville</location>
+        <price>760062</price>
+        <year>2015</year>
+    </car>
+    <car id="41">
+        <coding>41</coding>
+        <name>BUICK Regal</name>
+        <location>Canberra</location>
+        <price>915204</price>
+        <year>2010</year>
+    </car>
+    <car id="42">
+        <coding>42</coding>
+        <name>MERCEDES BENZ A-Class</name>
+        <location>Canberra</location>
+        <price>957434</price>
+        <year>2011</year>
+    </car>
+    <car id="43">
+        <coding>43</coding>
+        <name>DAEWOO Matiz</name>
+        <location>Hobart</location>
+        <price>411116</price>
+        <year>2006</year>
+    </car>
+    <car id="44">
+        <coding>44</coding>
+        <name>FERRARI Portofino M</name>
+        <location>Hobart</location>
+        <price>76373</price>
+        <year>2016</year>
+    </car>
+    <car id="45">
+        <coding>45</coding>
+        <name>LOTUS Evora GT</name>
+        <location>Caloundra</location>
+        <price>293661</price>
+        <year>2010</year>
+    </car>
+    <car id="46">
+        <coding>46</coding>
+        <name>FISKER Karma</name>
+        <location>Geelong</location>
+        <price>164960</price>
+        <year>2015</year>
+    </car>
+    <car id="47">
+        <coding>47</coding>
+        <name>FIAT Freemont Cross</name>
+        <location>Wollongong</location>
+        <price>734695</price>
+        <year>2000</year>
+    </car>
+    <car id="48">
+        <coding>48</coding>
+        <name>Zenvo ST1</name>
+        <location>Newcastle</location>
+        <price>37016</price>
+        <year>2008</year>
+    </car>
+    <car id="49">
+        <coding>49</coding>
+        <name>QOROS 3 City SUV</name>
+        <location>Norfolk Island</location>
+        <price>122953</price>
+        <year>2017</year>
+    </car>
+    <car id="50">
+        <coding>50</coding>
+        <name>Mahindra Thar</name>
+        <location>Perth</location>
+        <price>951284</price>
+        <year>2008</year>
+    </car>
+    <car id="51">
+        <coding>51</coding>
+        <name>MITSUBISHI ASX</name>
+        <location>Canberra</location>
+        <price>670765</price>
+        <year>2017</year>
+    </car>
+    <car id="52">
+        <coding>52</coding>
+        <name>BUGATTI Chiron Pur Sport</name>
+        <location>Newcastle</location>
+        <price>908578</price>
+        <year>2006</year>
+    </car>
+    <car id="53">
+        <coding>53</coding>
+        <name>GTA Motor GTA Spano</name>
+        <location>Canberra</location>
+        <price>490487</price>
+        <year>2003</year>
+    </car>
+    <car id="54">
+        <coding>54</coding>
+        <name>LEXUS IS</name>
+        <location>Jervis Bay</location>
+        <price>62317</price>
+        <year>2010</year>
+    </car>
+    <car id="55">
+        <coding>55</coding>
+        <name>ALPINE A106</name>
+        <location>Newcastle</location>
+        <price>699871</price>
+        <year>2010</year>
+    </car>
+    <car id="56">
+        <coding>56</coding>
+        <name>LEXUS IS</name>
+        <location>Perth</location>
+        <price>385385</price>
+        <year>2005</year>
+    </car>
+    <car id="57">
+        <coding>57</coding>
+        <name>TATA MOTORS Altroz</name>
+        <location>Melbourne</location>
+        <price>923020</price>
+        <year>2011</year>
+    </car>
+    <car id="58">
+        <coding>58</coding>
+        <name>MINI Clubman</name>
+        <location>Cocos Keeling Islands</location>
+        <price>803730</price>
+        <year>2020</year>
+    </car>
+    <car id="59">
+        <coding>59</coding>
+        <name>BUFORI MK II</name>
+        <location>Hobart</location>
+        <price>361123</price>
+        <year>2020</year>
+    </car>
+    <car id="60">
+        <coding>60</coding>
+        <name>MERCEDES BENZ E-Class</name>
+        <location>Canberra</location>
+        <price>144656</price>
+        <year>2007</year>
+    </car>
+    <car id="61">
+        <coding>61</coding>
+        <name>OPEL Sports Tourer</name>
+        <location>Brisbane</location>
+        <price>74652</price>
+        <year>2007</year>
+    </car>
+    <car id="62">
+        <coding>62</coding>
+        <name>PORSCHE 911</name>
+        <location>Brisbane</location>
+        <price>695219</price>
+        <year>2017</year>
+    </car>
+    <car id="63">
+        <coding>63</coding>
+        <name>ROLLS-ROYCE Silver Dawn</name>
+        <location>Adelaide</location>
+        <price>386189</price>
+        <year>2001</year>
+    </car>
+    <car id="64">
+        <coding>64</coding>
+        <name>ASTON MARTIN Vantage Roadster</name>
+        <location>Toowoomba</location>
+        <price>463654</price>
+        <year>2009</year>
+    </car>
+    <car id="65">
+        <coding>65</coding>
+        <name>MAYBACH 62 Zeppelin</name>
+        <location>Newcastle</location>
+        <price>430572</price>
+        <year>2006</year>
+    </car>
+    <car id="66">
+        <coding>66</coding>
+        <name>DATSUN on-Do</name>
+        <location>Newcastle</location>
+        <price>104283</price>
+        <year>2013</year>
+    </car>
+    <car id="67">
+        <coding>67</coding>
+        <name>MERCEDES BENZ C-Class</name>
+        <location>Newcastle</location>
+        <price>196534</price>
+        <year>2001</year>
+    </car>
+    <car id="68">
+        <coding>68</coding>
+        <name>MINI John Cooper Works GP</name>
+        <location>Norfolk Island</location>
+        <price>223817</price>
+        <year>2011</year>
+    </car>
+    <car id="69">
+        <coding>69</coding>
+        <name>TESLA MOTORS Model Y</name>
+        <location>Norfolk Island</location>
+        <price>701528</price>
+        <year>2008</year>
+    </car>
+    <car id="70">
+        <coding>70</coding>
+        <name>SAMSUNG SM 5</name>
+        <location>Melbourne</location>
+        <price>674480</price>
+        <year>2010</year>
+    </car>
+    <car id="71">
+        <coding>71</coding>
+        <name>SUZUKI Ignis</name>
+        <location>Cairns</location>
+        <price>168892</price>
+        <year>2004</year>
+    </car>
+    <car id="72">
+        <coding>72</coding>
+        <name>ARIEL Atom 3</name>
+        <location>Jervis Bay</location>
+        <price>816899</price>
+        <year>2012</year>
+    </car>
+    <car id="73">
+        <coding>73</coding>
+        <name>ISUZU D-Max Arctic Trucks AT35</name>
+        <location>Melbourne</location>
+        <price>164060</price>
+        <year>2000</year>
+    </car>
+    <car id="74">
+        <coding>74</coding>
+        <name>MINI Clubman</name>
+        <location>Norfolk Island</location>
+        <price>973176</price>
+        <year>2004</year>
+    </car>
+    <car id="75">
+        <coding>75</coding>
+        <name>GEELY CK</name>
+        <location>Toowoomba</location>
+        <price>253986</price>
+        <year>2013</year>
+    </car>
+    <car id="76">
+        <coding>76</coding>
+        <name>BUICK Encore GX</name>
+        <location>Caloundra</location>
+        <price>588082</price>
+        <year>2001</year>
+    </car>
+    <car id="77">
+        <coding>77</coding>
+        <name>AUDI SQ5</name>
+        <location>Hobart</location>
+        <price>591460</price>
+        <year>2002</year>
+    </car>
+    <car id="78">
+        <coding>78</coding>
+        <name>ROLLS-ROYCE Silver Dawn</name>
+        <location>Hobart</location>
+        <price>743794</price>
+        <year>2017</year>
+    </car>
+    <car id="79">
+        <coding>79</coding>
+        <name>SUBARU Outback</name>
+        <location>Geelong</location>
+        <price>393495</price>
+        <year>2009</year>
+    </car>
+    <car id="80">
+        <coding>80</coding>
+        <name>ALFA ROMEO MiTo</name>
+        <location>Adelaide</location>
+        <price>111105</price>
+        <year>2020</year>
+    </car>
+    <car id="81">
+        <coding>81</coding>
+        <name>SAMSUNG SM 7</name>
+        <location>Toowoomba</location>
+        <price>330479</price>
+        <year>2003</year>
+    </car>
+    <car id="82">
+        <coding>82</coding>
+        <name>WIESMANN GT MF4-CS</name>
+        <location>Geelong</location>
+        <price>397550</price>
+        <year>2014</year>
+    </car>
+    <car id="83">
+        <coding>83</coding>
+        <name>OLDSMOBILE Aurora</name>
+        <location>Melbourne</location>
+        <price>260248</price>
+        <year>2012</year>
+    </car>
+    <car id="84">
+        <coding>84</coding>
+        <name>MAZDA BT-50</name>
+        <location>Townsville</location>
+        <price>970361</price>
+        <year>2007</year>
+    </car>
+    <car id="85">
+        <coding>85</coding>
+        <name>WIESMANN GT MF4-CS</name>
+        <location>Cocos Keeling Islands</location>
+        <price>818781</price>
+        <year>2015</year>
+    </car>
+    <car id="86">
+        <coding>86</coding>
+        <name>TOYOTA Highlander</name>
+        <location>Christmas Island</location>
+        <price>199683</price>
+        <year>2010</year>
+    </car>
+    <car id="87">
+        <coding>87</coding>
+        <name>QOROS 3 City SUV</name>
+        <location>Sydney</location>
+        <price>796680</price>
+        <year>2004</year>
+    </car>
+    <car id="88">
+        <coding>88</coding>
+        <name>PANOZ Esperante GTLM</name>
+        <location>Toowoomba</location>
+        <price>525001</price>
+        <year>2018</year>
+    </car>
+    <car id="89">
+        <coding>89</coding>
+        <name>DS AUTOMOBILES DS 3 Crossback</name>
+        <location>Adelaide</location>
+        <price>298130</price>
+        <year>2014</year>
+    </car>
+    <car id="90">
+        <coding>90</coding>
+        <name>SPYKER C8 Preliator</name>
+        <location>Townsville</location>
+        <price>635172</price>
+        <year>2001</year>
+    </car>
+    <car id="91">
+        <coding>91</coding>
+        <name>SPYKER C8 Preliator</name>
+        <location>Norfolk Island</location>
+        <price>126509</price>
+        <year>2003</year>
+    </car>
+    <car id="92">
+        <coding>92</coding>
+        <name>BUFORI MK II</name>
+        <location>Norfolk Island</location>
+        <price>970028</price>
+        <year>2006</year>
+    </car>
+    <car id="93">
+        <coding>93</coding>
+        <name>SKODA Octavia Scout</name>
+        <location>Sydney</location>
+        <price>958328</price>
+        <year>2003</year>
+    </car>
+    <car id="94">
+        <coding>94</coding>
+        <name>MAZDA BT-50</name>
+        <location>Cairns</location>
+        <price>488952</price>
+        <year>2009</year>
+    </car>
+    <car id="95">
+        <coding>95</coding>
+        <name>LEXUS IS</name>
+        <location>Perth</location>
+        <price>174678</price>
+        <year>2008</year>
+    </car>
+    <car id="96">
+        <coding>96</coding>
+        <name>SUBARU Outback</name>
+        <location>Newcastle</location>
+        <price>519378</price>
+        <year>2004</year>
+    </car>
+    <car id="97">
+        <coding>97</coding>
+        <name>SKODA Octavia Scout</name>
+        <location>Wollongong</location>
+        <price>306885</price>
+        <year>2012</year>
+    </car>
+    <car id="98">
+        <coding>98</coding>
+        <name>MITSUBISHI Mirage GT</name>
+        <location>Christmas Island</location>
+        <price>65621</price>
+        <year>2016</year>
+    </car>
+    <car id="99">
+        <coding>99</coding>
+        <name>JAGUAR F-Type Convertible</name>
+        <location>Canberra</location>
+        <price>730517</price>
+        <year>2010</year>
+    </car>
+    <car id="100">
+        <coding>100</coding>
+        <name>MAYBACH 62 Zeppelin</name>
+        <location>Norfolk Island</location>
+        <price>865999</price>
+        <year>2000</year>
+    </car>
+    <car id="101">
+        <coding>101</coding>
+        <name>TOYOTA Land Cruiser 200</name>
+        <location>Sydney</location>
+        <price>919449</price>
+        <year>2015</year>
+    </car>
+    <car id="102">
+        <coding>102</coding>
+        <name>HUMMER H3 Alpha</name>
+        <location>Norfolk Island</location>
+        <price>143636</price>
+        <year>2008</year>
+    </car>
+    <car id="103">
+        <coding>103</coding>
+        <name>SCION iA</name>
+        <location>Newcastle</location>
+        <price>259163</price>
+        <year>2019</year>
+    </car>
+    <car id="104">
+        <coding>104</coding>
+        <name>SKODA Octavia Scout</name>
+        <location>Newcastle</location>
+        <price>723920</price>
+        <year>2009</year>
+    </car>
+    <car id="105">
+        <coding>105</coding>
+        <name>DATSUN Mi-Do</name>
+        <location>Caloundra</location>
+        <price>455953</price>
+        <year>2005</year>
+    </car>
+    <car id="106">
+        <coding>106</coding>
+        <name>OLDSMOBILE Intrigue</name>
+        <location>Norfolk Island</location>
+        <price>129002</price>
+        <year>2014</year>
+    </car>
+    <car id="107">
+        <coding>107</coding>
+        <name>ZENDER Straight 8</name>
+        <location>Perth</location>
+        <price>986217</price>
+        <year>2008</year>
+    </car>
+    <car id="108">
+        <coding>108</coding>
+        <name>ZENDER Thirty 7</name>
+        <location>Wollongong</location>
+        <price>697309</price>
+        <year>2020</year>
+    </car>
+    <car id="109">
+        <coding>109</coding>
+        <name>LAND ROVER Defender 110</name>
+        <location>Cocos Keeling Islands</location>
+        <price>57526</price>
+        <year>2009</year>
+    </car>
+    <car id="110">
+        <coding>110</coding>
+        <name>SAMSUNG SM 7</name>
+        <location>Hobart</location>
+        <price>853456</price>
+        <year>2007</year>
+    </car>
+    <car id="111">
+        <coding>111</coding>
+        <name>FORD C-Max</name>
+        <location>Newcastle</location>
+        <price>930639</price>
+        <year>2008</year>
+    </car>
+    <car id="112">
+        <coding>112</coding>
+        <name>SANTANA PS 10 Shortline</name>
+        <location>Newcastle</location>
+        <price>171528</price>
+        <year>2010</year>
+    </car>
+    <car id="113">
+        <coding>113</coding>
+        <name>MARUTI SUZUKI Ciaz</name>
+        <location>Geelong</location>
+        <price>929139</price>
+        <year>2019</year>
+    </car>
+    <car id="114">
+        <coding>114</coding>
+        <name>ACURA ILX</name>
+        <location>Adelaide</location>
+        <price>632138</price>
+        <year>2004</year>
+    </car>
+    <car id="115">
+        <coding>115</coding>
+        <name>RENAULT Talisman Estate</name>
+        <location>Toowoomba</location>
+        <price>110891</price>
+        <year>2004</year>
+    </car>
+    <car id="116">
+        <coding>116</coding>
+        <name>FORD F-150 Super Crew</name>
+        <location>Cocos Keeling Islands</location>
+        <price>581183</price>
+        <year>2000</year>
+    </car>
+    <car id="117">
+        <coding>117</coding>
+        <name>VOLVO V90</name>
+        <location>Canberra</location>
+        <price>492983</price>
+        <year>2016</year>
+    </car>
+    <car id="118">
+        <coding>118</coding>
+        <name>VAUXHALL Zafira Tourer</name>
+        <location>Cairns</location>
+        <price>915763</price>
+        <year>2004</year>
+    </car>
+    <car id="119">
+        <coding>119</coding>
+        <name>KTM X-Bow RR</name>
+        <location>Newcastle</location>
+        <price>629325</price>
+        <year>2008</year>
+    </car>
+    <car id="120">
+        <coding>120</coding>
+        <name>SCION iQ</name>
+        <location>Canberra</location>
+        <price>700151</price>
+        <year>2008</year>
+    </car>
+    <car id="121">
+        <coding>121</coding>
+        <name>TOYOTA Land Cruiser 200</name>
+        <location>Wollongong</location>
+        <price>487610</price>
+        <year>2020</year>
+    </car>
+    <car id="122">
+        <coding>122</coding>
+        <name>DODGE Durango</name>
+        <location>Adelaide</location>
+        <price>252273</price>
+        <year>2018</year>
+    </car>
+    <car id="123">
+        <coding>123</coding>
+        <name>OLDSMOBILE Aurora</name>
+        <location>Townsville</location>
+        <price>139797</price>
+        <year>2000</year>
+    </car>
+    <car id="124">
+        <coding>124</coding>
+        <name>CATERHAM Superlight</name>
+        <location>Newcastle</location>
+        <price>288618</price>
+        <year>2002</year>
+    </car>
+    <car id="125">
+        <coding>125</coding>
+        <name>Mahindra Thar</name>
+        <location>Melbourne</location>
+        <price>777798</price>
+        <year>2020</year>
+    </car>
+    <car id="126">
+        <coding>126</coding>
+        <name>KTM X-Bow GT</name>
+        <location>Brisbane</location>
+        <price>812997</price>
+        <year>2000</year>
+    </car>
+    <car id="127">
+        <coding>127</coding>
+        <name>LAND ROVER Discovery Sport</name>
+        <location>Canberra</location>
+        <price>973550</price>
+        <year>2014</year>
+    </car>
+    <car id="128">
+        <coding>128</coding>
+        <name>ROLLS-ROYCE Silver Dawn</name>
+        <location>Caloundra</location>
+        <price>712102</price>
+        <year>2011</year>
+    </car>
+    <car id="129">
+        <coding>129</coding>
+        <name>ACURA ILX</name>
+        <location>Christmas Island</location>
+        <price>160162</price>
+        <year>2005</year>
+    </car>
+    <car id="130">
+        <coding>130</coding>
+        <name>MAZDA 2</name>
+        <location>Sydney</location>
+        <price>258280</price>
+        <year>2016</year>
+    </car>
+    <car id="131">
+        <coding>131</coding>
+        <name>ARIEL Nomad</name>
+        <location>Sydney</location>
+        <price>768306</price>
+        <year>2002</year>
+    </car>
+    <car id="132">
+        <coding>132</coding>
+        <name>DR MOTOR dr2</name>
+        <location>Adelaide</location>
+        <price>57457</price>
+        <year>2016</year>
+    </car>
+    <car id="133">
+        <coding>133</coding>
+        <name>PAGANI Huayra Roadster</name>
+        <location>Perth</location>
+        <price>699520</price>
+        <year>2012</year>
+    </car>
+    <car id="134">
+        <coding>134</coding>
+        <name>Pininfarina Battista</name>
+        <location>Brisbane</location>
+        <price>127633</price>
+        <year>2003</year>
+    </car>
+    <car id="135">
+        <coding>135</coding>
+        <name>TESLA MOTORS Roadster</name>
+        <location>Jervis Bay</location>
+        <price>735636</price>
+        <year>2017</year>
+    </car>
+    <car id="136">
+        <coding>136</coding>
+        <name>PORSCHE Panamera 4S Sport Turismo</name>
+        <location>Christmas Island</location>
+        <price>70893</price>
+        <year>2020</year>
+    </car>
+    <car id="137">
+        <coding>137</coding>
+        <name>PERODUA Myvi</name>
+        <location>Cairns</location>
+        <price>250979</price>
+        <year>2020</year>
+    </car>
+    <car id="138">
+        <coding>138</coding>
+        <name>GENESIS G90</name>
+        <location>Canberra</location>
+        <price>559352</price>
+        <year>2016</year>
+    </car>
+    <car id="139">
+        <coding>139</coding>
+        <name>MCLAREN Elva</name>
+        <location>Toowoomba</location>
+        <price>381539</price>
+        <year>2014</year>
+    </car>
+    <car id="140">
+        <coding>140</coding>
+        <name>MITSUBISHI Mirage GT</name>
+        <location>Brisbane</location>
+        <price>662965</price>
+        <year>2008</year>
+    </car>
+    <car id="141">
+        <coding>141</coding>
+        <name>HONDA Odyssey</name>
+        <location>Perth</location>
+        <price>392783</price>
+        <year>2007</year>
+    </car>
+    <car id="142">
+        <coding>142</coding>
+        <name>MARUTI SUZUKI Ciaz</name>
+        <location>Canberra</location>
+        <price>644638</price>
+        <year>2020</year>
+    </car>
+    <car id="143">
+        <coding>143</coding>
+        <name>MORGAN Aero 8</name>
+        <location>Cocos Keeling Islands</location>
+        <price>955291</price>
+        <year>2018</year>
+    </car>
+    <car id="144">
+        <coding>144</coding>
+        <name>LANCIA Ypsilon</name>
+        <location>Geelong</location>
+        <price>295563</price>
+        <year>2002</year>
+    </car>
+    <car id="145">
+        <coding>145</coding>
+        <name>JEEP Compass</name>
+        <location>Wollongong</location>
+        <price>564896</price>
+        <year>2001</year>
+    </car>
+    <car id="146">
+        <coding>146</coding>
+        <name>HOLDEN Trax</name>
+        <location>Caloundra</location>
+        <price>951210</price>
+        <year>2007</year>
+    </car>
+    <car id="147">
+        <coding>147</coding>
+        <name>LADA Priora</name>
+        <location>Newcastle</location>
+        <price>301512</price>
+        <year>2019</year>
+    </car>
+    <car id="148">
+        <coding>148</coding>
+        <name>MARUTI SUZUKI Zen Estilo</name>
+        <location>Hobart</location>
+        <price>765903</price>
+        <year>2002</year>
+    </car>
+    <car id="149">
+        <coding>149</coding>
+        <name>WIESMANN GT MF4-CS</name>
+        <location>Gold Coast</location>
+        <price>688319</price>
+        <year>2018</year>
+    </car>
+    <car id="150">
+        <coding>150</coding>
+        <name>OPEL Sports Tourer</name>
+        <location>Perth</location>
+        <price>791412</price>
+        <year>2010</year>
+    </car>
+    <car id="151">
+        <coding>151</coding>
+        <name>FERRARI Roma</name>
+        <location>Adelaide</location>
+        <price>400495</price>
+        <year>2015</year>
+    </car>
+    <car id="152">
+        <coding>152</coding>
+        <name>FORD F-150 Super Crew</name>
+        <location>Melbourne</location>
+        <price>52492</price>
+        <year>2005</year>
+    </car>
+    <car id="153">
+        <coding>153</coding>
+        <name>FIAT Doblo</name>
+        <location>Cocos Keeling Islands</location>
+        <price>880167</price>
+        <year>2019</year>
+    </car>
+    <car id="154">
+        <coding>154</coding>
+        <name>BUGATTI Centodieci</name>
+        <location>Jervis Bay</location>
+        <price>629802</price>
+        <year>2007</year>
+    </car>
+    <car id="155">
+        <coding>155</coding>
+        <name>RENAULT Talisman</name>
+        <location>Townsville</location>
+        <price>371766</price>
+        <year>2019</year>
+    </car>
+    <car id="156">
+        <coding>156</coding>
+        <name>BRISTOL Bullet</name>
+        <location>Gold Coast</location>
+        <price>448107</price>
+        <year>2012</year>
+    </car>
+    <car id="157">
+        <coding>157</coding>
+        <name>ALPINE A106</name>
+        <location>Newcastle</location>
+        <price>739469</price>
+        <year>2006</year>
+    </car>
+    <car id="158">
+        <coding>158</coding>
+        <name>VOLKSWAGEN ID.3</name>
+        <location>Brisbane</location>
+        <price>225247</price>
+        <year>2011</year>
+    </car>
+    <car id="159">
+        <coding>159</coding>
+        <name>LANCIA Ypsilon</name>
+        <location>Toowoomba</location>
+        <price>185890</price>
+        <year>2006</year>
+    </car>
+    <car id="160">
+        <coding>160</coding>
+        <name>ACURA ILX</name>
+        <location>Brisbane</location>
+        <price>794742</price>
+        <year>2007</year>
+    </car>
+    <car id="161">
+        <coding>161</coding>
+        <name>RENAULT Talisman</name>
+        <location>Hobart</location>
+        <price>678726</price>
+        <year>2007</year>
+    </car>
+    <car id="162">
+        <coding>162</coding>
+        <name>MITSUBISHI ASX</name>
+        <location>Wollongong</location>
+        <price>922503</price>
+        <year>2007</year>
+    </car>
+    <car id="163">
+        <coding>163</coding>
+        <name>BUGATTI Centodieci</name>
+        <location>Cocos Keeling Islands</location>
+        <price>729516</price>
+        <year>2008</year>
+    </car>
+    <car id="164">
+        <coding>164</coding>
+        <name>PAGANI Imola</name>
+        <location>Canberra</location>
+        <price>45566</price>
+        <year>2013</year>
+    </car>
+    <car id="165">
+        <coding>165</coding>
+        <name>PEUGEOT 508 SW PSE</name>
+        <location>Hobart</location>
+        <price>846201</price>
+        <year>2012</year>
+    </car>
+    <car id="166">
+        <coding>166</coding>
+        <name>Mahindra Bolero</name>
+        <location>Adelaide</location>
+        <price>708281</price>
+        <year>2020</year>
+    </car>
+    <car id="167">
+        <coding>167</coding>
+        <name>Zenvo ST1</name>
+        <location>Norfolk Island</location>
+        <price>718668</price>
+        <year>2000</year>
+    </car>
+    <car id="168">
+        <coding>168</coding>
+        <name>KIA Picanto 5 doors</name>
+        <location>Geelong</location>
+        <price>768870</price>
+        <year>2012</year>
+    </car>
+    <car id="169">
+        <coding>169</coding>
+        <name>MERCEDES BENZ E-Class</name>
+        <location>Sydney</location>
+        <price>113952</price>
+        <year>2011</year>
+    </car>
+    <car id="170">
+        <coding>170</coding>
+        <name>ACURA MDX A-Spec</name>
+        <location>Toowoomba</location>
+        <price>346819</price>
+        <year>2019</year>
+    </car>
+    <car id="171">
+        <coding>171</coding>
+        <name>Mahindra Verito</name>
+        <location>Hobart</location>
+        <price>855278</price>
+        <year>2007</year>
+    </car>
+    <car id="172">
+        <coding>172</coding>
+        <name>HONDA CR-V</name>
+        <location>Brisbane</location>
+        <price>218994</price>
+        <year>2003</year>
+    </car>
+    <car id="173">
+        <coding>173</coding>
+        <name>ZENDER Escape 6</name>
+        <location>Adelaide</location>
+        <price>576619</price>
+        <year>2007</year>
+    </car>
+    <car id="174">
+        <coding>174</coding>
+        <name>DODGE Durango</name>
+        <location>Geelong</location>
+        <price>299938</price>
+        <year>2005</year>
+    </car>
+    <car id="175">
+        <coding>175</coding>
+        <name>LINCOLN Corsair</name>
+        <location>Adelaide</location>
+        <price>871959</price>
+        <year>2016</year>
+    </car>
+    <car id="176">
+        <coding>176</coding>
+        <name>PANOZ Roadster</name>
+        <location>Wollongong</location>
+        <price>159264</price>
+        <year>2014</year>
+    </car>
+    <car id="177">
+        <coding>177</coding>
+        <name>PANOZ Roadster</name>
+        <location>Brisbane</location>
+        <price>235931</price>
+        <year>2013</year>
+    </car>
+    <car id="178">
+        <coding>178</coding>
+        <name>SKODA Octavia Scout</name>
+        <location>Cairns</location>
+        <price>806588</price>
+        <year>2008</year>
+    </car>
+    <car id="179">
+        <coding>179</coding>
+        <name>MITSUBISHI Mirage</name>
+        <location>Gold Coast</location>
+        <price>850019</price>
+        <year>2017</year>
+    </car>
+    <car id="180">
+        <coding>180</coding>
+        <name>HYUNDAI Tucson</name>
+        <location>Wollongong</location>
+        <price>291908</price>
+        <year>2010</year>
+    </car>
+    <car id="181">
+        <coding>181</coding>
+        <name>MITSUBISHI Mirage</name>
+        <location>Melbourne</location>
+        <price>105981</price>
+        <year>2015</year>
+    </car>
+    <car id="182">
+        <coding>182</coding>
+        <name>LEXUS LC 500 Convertible</name>
+        <location>Canberra</location>
+        <price>666891</price>
+        <year>2005</year>
+    </car>
+    <car id="183">
+        <coding>183</coding>
+        <name>TOYOTA Highlander</name>
+        <location>Gold Coast</location>
+        <price>375721</price>
+        <year>2020</year>
+    </car>
+    <car id="184">
+        <coding>184</coding>
+        <name>FSO Prima</name>
+        <location>Cairns</location>
+        <price>539966</price>
+        <year>2002</year>
+    </car>
+    <car id="185">
+        <coding>185</coding>
+        <name>NISSAN Sentra</name>
+        <location>Wollongong</location>
+        <price>494221</price>
+        <year>2004</year>
+    </car>
+    <car id="186">
+        <coding>186</coding>
+        <name>GMC Acadia</name>
+        <location>Wollongong</location>
+        <price>175676</price>
+        <year>2015</year>
+    </car>
+    <car id="187">
+        <coding>187</coding>
+        <name>BUFORI MK I</name>
+        <location>Cairns</location>
+        <price>979786</price>
+        <year>2009</year>
+    </car>
+    <car id="188">
+        <coding>188</coding>
+        <name>GMC Acadia</name>
+        <location>Canberra</location>
+        <price>796202</price>
+        <year>2017</year>
+    </car>
+    <car id="189">
+        <coding>189</coding>
+        <name>TATA MOTORS Nexon</name>
+        <location>Gold Coast</location>
+        <price>813213</price>
+        <year>2001</year>
+    </car>
+    <car id="190">
+        <coding>190</coding>
+        <name>DR MOTOR dr2</name>
+        <location>Norfolk Island</location>
+        <price>780504</price>
+        <year>2007</year>
+    </car>
+    <car id="191">
+        <coding>191</coding>
+        <name>ZENDER Straight 8</name>
+        <location>Canberra</location>
+        <price>475128</price>
+        <year>2019</year>
+    </car>
+    <car id="192">
+        <coding>192</coding>
+        <name>TATA MOTORS Nexon</name>
+        <location>Canberra</location>
+        <price>613995</price>
+        <year>2019</year>
+    </car>
+    <car id="193">
+        <coding>193</coding>
+        <name>DR MOTOR dr5</name>
+        <location>Brisbane</location>
+        <price>448115</price>
+        <year>2004</year>
+    </car>
+    <car id="194">
+        <coding>194</coding>
+        <name>CUPRA el-Born</name>
+        <location>Toowoomba</location>
+        <price>969186</price>
+        <year>2015</year>
+    </car>
+    <car id="195">
+        <coding>195</coding>
+        <name>BUICK Encore GX</name>
+        <location>Newcastle</location>
+        <price>477851</price>
+        <year>2010</year>
+    </car>
+    <car id="196">
+        <coding>196</coding>
+        <name>DACIA Logan</name>
+        <location>Jervis Bay</location>
+        <price>325229</price>
+        <year>2017</year>
+    </car>
+    <car id="197">
+        <coding>197</coding>
+        <name>ASTON MARTIN Vantage Roadster</name>
+        <location>Toowoomba</location>
+        <price>184916</price>
+        <year>2016</year>
+    </car>
+    <car id="198">
+        <coding>198</coding>
+        <name>CADILLAC CT5-V</name>
+        <location>Jervis Bay</location>
+        <price>761790</price>
+        <year>2014</year>
+    </car>
+    <car id="199">
+        <coding>199</coding>
+        <name>TVR Griffith</name>
+        <location>Caloundra</location>
+        <price>876461</price>
+        <year>2005</year>
+    </car>
+    <car id="200">
+        <coding>200</coding>
+        <name>SUZUKI Swift</name>
+        <location>Cocos Keeling Islands</location>
+        <price>120176</price>
+        <year>2007</year>
+    </car>
+    <car id="201">
+        <coding>201</coding>
+        <name>DONKERVOORT D8</name>
+        <location>Cocos Keeling Islands</location>
+        <price>734405</price>
+        <year>2004</year>
+    </car>
+    <car id="202">
+        <coding>202</coding>
+        <name>CATERHAM Super Seven 1600</name>
+        <location>Cocos Keeling Islands</location>
+        <price>452151</price>
+        <year>2008</year>
+    </car>
+    <car id="203">
+        <coding>203</coding>
+        <name>LEXUS IS</name>
+        <location>Adelaide</location>
+        <price>554348</price>
+        <year>2020</year>
+    </car>
+    <car id="204">
+        <coding>204</coding>
+        <name>ROLLS-ROYCE Silver Dawn</name>
+        <location>Perth</location>
+        <price>554370</price>
+        <year>2019</year>
+    </car>
+    <car id="205">
+        <coding>205</coding>
+        <name>KOENIGSEGG Jesko</name>
+        <location>Canberra</location>
+        <price>826887</price>
+        <year>2018</year>
+    </car>
+    <car id="206">
+        <coding>206</coding>
+        <name>BRISTOL Bullet</name>
+        <location>Norfolk Island</location>
+        <price>33858</price>
+        <year>2011</year>
+    </car>
+    <car id="207">
+        <coding>207</coding>
+        <name>MINI John Cooper Works GP</name>
+        <location>Melbourne</location>
+        <price>900491</price>
+        <year>2018</year>
+    </car>
+    <car id="208">
+        <coding>208</coding>
+        <name>PROTON Iriz</name>
+        <location>Perth</location>
+        <price>27468</price>
+        <year>2003</year>
+    </car>
+    <car id="209">
+        <coding>209</coding>
+        <name>MAZDA 2</name>
+        <location>Gold Coast</location>
+        <price>322644</price>
+        <year>2014</year>
+    </car>
+    <car id="210">
+        <coding>210</coding>
+        <name>LOTUS Evija</name>
+        <location>Melbourne</location>
+        <price>795745</price>
+        <year>2016</year>
+    </car>
+    <car id="211">
+        <coding>211</coding>
+        <name>PAGANI Huayra Roadster BC</name>
+        <location>Cairns</location>
+        <price>723412</price>
+        <year>2005</year>
+    </car>
+    <car id="212">
+        <coding>212</coding>
+        <name>LAND ROVER Defender 90</name>
+        <location>Norfolk Island</location>
+        <price>619116</price>
+        <year>2005</year>
+    </car>
+    <car id="213">
+        <coding>213</coding>
+        <name>MINI Clubman</name>
+        <location>Christmas Island</location>
+        <price>913130</price>
+        <year>2004</year>
+    </car>
+    <car id="214">
+        <coding>214</coding>
+        <name>ARO M 461</name>
+        <location>Christmas Island</location>
+        <price>671866</price>
+        <year>2010</year>
+    </car>
+    <car id="215">
+        <coding>215</coding>
+        <name>PROTON Perdana</name>
+        <location>Cairns</location>
+        <price>883374</price>
+        <year>2001</year>
+    </car>
+    <car id="216">
+        <coding>216</coding>
+        <name>TOYOTA Avensis Wagon</name>
+        <location>Brisbane</location>
+        <price>996789</price>
+        <year>2015</year>
+    </car>
+    <car id="217">
+        <coding>217</coding>
+        <name>MINI Clubman</name>
+        <location>Brisbane</location>
+        <price>947915</price>
+        <year>2013</year>
+    </car>
+    <car id="218">
+        <coding>218</coding>
+        <name>AUDI S5 Cabriolet</name>
+        <location>Christmas Island</location>
+        <price>670972</price>
+        <year>2011</year>
+    </car>
+    <car id="219">
+        <coding>219</coding>
+        <name>FIAT Freemont Cross</name>
+        <location>Brisbane</location>
+        <price>327815</price>
+        <year>2011</year>
+    </car>
+    <car id="220">
+        <coding>220</coding>
+        <name>BUGATTI Chiron Pur Sport</name>
+        <location>Canberra</location>
+        <price>650640</price>
+        <year>2004</year>
+    </car>
+    <car id="221">
+        <coding>221</coding>
+        <name>WIESMANN GT MF4-CS</name>
+        <location>Hobart</location>
+        <price>722368</price>
+        <year>2010</year>
+    </car>
+    <car id="222">
+        <coding>222</coding>
+        <name>SSANGYONG Tivoli</name>
+        <location>Townsville</location>
+        <price>110470</price>
+        <year>2004</year>
+    </car>
+    <car id="223">
+        <coding>223</coding>
+        <name>HYUNDAI Tucson</name>
+        <location>Norfolk Island</location>
+        <price>855035</price>
+        <year>2014</year>
+    </car>
+    <car id="224">
+        <coding>224</coding>
+        <name>TESLA MOTORS Model S</name>
+        <location>Jervis Bay</location>
+        <price>110335</price>
+        <year>2000</year>
+    </car>
+    <car id="225">
+        <coding>225</coding>
+        <name>SMART EQ forfour</name>
+        <location>Toowoomba</location>
+        <price>901086</price>
+        <year>2013</year>
+    </car>
+    <car id="226">
+        <coding>226</coding>
+        <name>CADILLAC CT5-V</name>
+        <location>Adelaide</location>
+        <price>949880</price>
+        <year>2013</year>
+    </car>
+    <car id="227">
+        <coding>227</coding>
+        <name>LEXUS LS</name>
+        <location>Townsville</location>
+        <price>311108</price>
+        <year>2001</year>
+    </car>
+    <car id="228">
+        <coding>228</coding>
+        <name>CATERHAM Seven 620 R</name>
+        <location>Hobart</location>
+        <price>608876</price>
+        <year>2007</year>
+    </car>
+    <car id="229">
+        <coding>229</coding>
+        <name>DATSUN GO+</name>
+        <location>Norfolk Island</location>
+        <price>512059</price>
+        <year>2000</year>
+    </car>
+    <car id="230">
+        <coding>230</coding>
+        <name>PEUGEOT 5008</name>
+        <location>Gold Coast</location>
+        <price>928780</price>
+        <year>2015</year>
+    </car>
+    <car id="231">
+        <coding>231</coding>
+        <name>PANOZ Roadster</name>
+        <location>Adelaide</location>
+        <price>455058</price>
+        <year>2019</year>
+    </car>
+    <car id="232">
+        <coding>232</coding>
+        <name>Mahindra Verito</name>
+        <location>Melbourne</location>
+        <price>718420</price>
+        <year>2001</year>
+    </car>
+    <car id="233">
+        <coding>233</coding>
+        <name>MAYBACH 62 Zeppelin</name>
+        <location>Hobart</location>
+        <price>946583</price>
+        <year>2016</year>
+    </car>
+    <car id="234">
+        <coding>234</coding>
+        <name>ZENDER Escape 6</name>
+        <location>Melbourne</location>
+        <price>754250</price>
+        <year>2005</year>
+    </car>
+    <car id="235">
+        <coding>235</coding>
+        <name>GEELY CK</name>
+        <location>Cairns</location>
+        <price>287258</price>
+        <year>2001</year>
+    </car>
+    <car id="236">
+        <coding>236</coding>
+        <name>BUGATTI Centodieci</name>
+        <location>Geelong</location>
+        <price>353092</price>
+        <year>2002</year>
+    </car>
+    <car id="237">
+        <coding>237</coding>
+        <name>LAND ROVER Defender 90</name>
+        <location>Jervis Bay</location>
+        <price>619911</price>
+        <year>2006</year>
+    </car>
+    <car id="238">
+        <coding>238</coding>
+        <name>JEEP Compass</name>
+        <location>Cairns</location>
+        <price>92803</price>
+        <year>2004</year>
+    </car>
+    <car id="239">
+        <coding>239</coding>
+        <name>CHEVROLET Sonic</name>
+        <location>Newcastle</location>
+        <price>86079</price>
+        <year>2020</year>
+    </car>
+    <car id="240">
+        <coding>240</coding>
+        <name>LADA Kalina Sedan</name>
+        <location>Wollongong</location>
+        <price>753790</price>
+        <year>2008</year>
+    </car>
+    <car id="241">
+        <coding>241</coding>
+        <name>ALFA ROMEO Stelvio Quadrifoglio</name>
+        <location>Cairns</location>
+        <price>587647</price>
+        <year>2002</year>
+    </car>
+    <car id="242">
+        <coding>242</coding>
+        <name>LEXUS IS</name>
+        <location>Sydney</location>
+        <price>681808</price>
+        <year>2016</year>
+    </car>
+    <car id="243">
+        <coding>243</coding>
+        <name>HUMMER H2 SUT</name>
+        <location>Cocos Keeling Islands</location>
+        <price>807787</price>
+        <year>2010</year>
+    </car>
+    <car id="244">
+        <coding>244</coding>
+        <name>GENESIS GV80</name>
+        <location>Canberra</location>
+        <price>949973</price>
+        <year>2006</year>
+    </car>
+    <car id="245">
+        <coding>245</coding>
+        <name>MAYBACH 57 Zeppelin</name>
+        <location>Newcastle</location>
+        <price>822890</price>
+        <year>2005</year>
+    </car>
+    <car id="246">
+        <coding>246</coding>
+        <name>FIAT 500e</name>
+        <location>Wollongong</location>
+        <price>225405</price>
+        <year>2009</year>
+    </car>
+    <car id="247">
+        <coding>247</coding>
+        <name>MAYBACH 57 Zeppelin</name>
+        <location>Brisbane</location>
+        <price>334667</price>
+        <year>2002</year>
+    </car>
+    <car id="248">
+        <coding>248</coding>
+        <name>BMW X7</name>
+        <location>Adelaide</location>
+        <price>103455</price>
+        <year>2003</year>
+    </car>
+    <car id="249">
+        <coding>249</coding>
+        <name>SATURN Aura</name>
+        <location>Townsville</location>
+        <price>519101</price>
+        <year>2009</year>
+    </car>
+    <car id="250">
+        <coding>250</coding>
+        <name>TESLA MOTORS Roadster</name>
+        <location>Toowoomba</location>
+        <price>339919</price>
+        <year>2012</year>
+    </car>
+    <car id="251">
+        <coding>251</coding>
+        <name>MAYBACH 62 Zeppelin</name>
+        <location>Melbourne</location>
+        <price>926411</price>
+        <year>2008</year>
+    </car>
+    <car id="252">
+        <coding>252</coding>
+        <name>Pininfarina Battista</name>
+        <location>Newcastle</location>
+        <price>289186</price>
+        <year>2009</year>
+    </car>
+    <car id="253">
+        <coding>253</coding>
+        <name>DS AUTOMOBILES DS 3 Crossback</name>
+        <location>Sydney</location>
+        <price>933739</price>
+        <year>2003</year>
+    </car>
+    <car id="254">
+        <coding>254</coding>
+        <name>ARO M 461</name>
+        <location>Melbourne</location>
+        <price>333753</price>
+        <year>2004</year>
+    </car>
+    <car id="255">
+        <coding>255</coding>
+        <name>Polestar Polestar 2</name>
+        <location>Toowoomba</location>
+        <price>649719</price>
+        <year>2004</year>
+    </car>
+    <car id="256">
+        <coding>256</coding>
+        <name>MARUSSIA B1</name>
+        <location>Cocos Keeling Islands</location>
+        <price>308016</price>
+        <year>2017</year>
+    </car>
+    <car id="257">
+        <coding>257</coding>
+        <name>LADA Priora</name>
+        <location>Gold Coast</location>
+        <price>377611</price>
+        <year>2001</year>
+    </car>
+    <car id="258">
+        <coding>258</coding>
+        <name>AUDI SQ5</name>
+        <location>Toowoomba</location>
+        <price>86789</price>
+        <year>2006</year>
+    </car>
+    <car id="259">
+        <coding>259</coding>
+        <name>MERCEDES BENZ S-Class</name>
+        <location>Christmas Island</location>
+        <price>961177</price>
+        <year>2005</year>
+    </car>
+    <car id="260">
+        <coding>260</coding>
+        <name>DeLorean DMC-12</name>
+        <location>Cocos Keeling Islands</location>
+        <price>826468</price>
+        <year>2011</year>
+    </car>
+    <car id="261">
+        <coding>261</coding>
+        <name>CITROEN AMI</name>
+        <location>Geelong</location>
+        <price>654990</price>
+        <year>2012</year>
+    </car>
+    <car id="262">
+        <coding>262</coding>
+        <name>DODGE Charger SRT Hellcat Widebody</name>
+        <location>Perth</location>
+        <price>644270</price>
+        <year>2007</year>
+    </car>
+    <car id="263">
+        <coding>263</coding>
+        <name>DS AUTOMOBILES DS 9</name>
+        <location>Melbourne</location>
+        <price>248344</price>
+        <year>2003</year>
+    </car>
+    <car id="264">
+        <coding>264</coding>
+        <name>ZENDER Escape 6</name>
+        <location>Brisbane</location>
+        <price>548487</price>
+        <year>2004</year>
+    </car>
+    <car id="265">
+        <coding>265</coding>
+        <name>CHEVROLET Traverse</name>
+        <location>Melbourne</location>
+        <price>699453</price>
+        <year>2018</year>
+    </car>
+    <car id="266">
+        <coding>266</coding>
+        <name>PANOZ Esperante GTLM</name>
+        <location>Perth</location>
+        <price>50172</price>
+        <year>2004</year>
+    </car>
+    <car id="267">
+        <coding>267</coding>
+        <name>TESLA MOTORS Model Y</name>
+        <location>Sydney</location>
+        <price>554106</price>
+        <year>2017</year>
+    </car>
+    <car id="268">
+        <coding>268</coding>
+        <name>TESLA MOTORS Cybertruck</name>
+        <location>Wollongong</location>
+        <price>744193</price>
+        <year>2020</year>
+    </car>
+    <car id="269">
+        <coding>269</coding>
+        <name>MORGAN Plus Four</name>
+        <location>Hobart</location>
+        <price>670478</price>
+        <year>2015</year>
+    </car>
+    <car id="270">
+        <coding>270</coding>
+        <name>KTM X-Bow GT</name>
+        <location>Caloundra</location>
+        <price>755084</price>
+        <year>2008</year>
+    </car>
+    <car id="271">
+        <coding>271</coding>
+        <name>KTM X-Bow GT</name>
+        <location>Melbourne</location>
+        <price>259255</price>
+        <year>2013</year>
+    </car>
+    <car id="272">
+        <coding>272</coding>
+        <name>DR MOTOR dr2</name>
+        <location>Newcastle</location>
+        <price>810622</price>
+        <year>2004</year>
+    </car>
+    <car id="273">
+        <coding>273</coding>
+        <name>TESLA MOTORS Model S</name>
+        <location>Hobart</location>
+        <price>175773</price>
+        <year>2020</year>
+    </car>
+    <car id="274">
+        <coding>274</coding>
+        <name>AUDI SQ5</name>
+        <location>Caloundra</location>
+        <price>383561</price>
+        <year>2016</year>
+    </car>
+    <car id="275">
+        <coding>275</coding>
+        <name>SEAT Leon Sportstourer</name>
+        <location>Cairns</location>
+        <price>938327</price>
+        <year>2017</year>
+    </car>
+    <car id="276">
+        <coding>276</coding>
+        <name>VOLKSWAGEN Passat GTE</name>
+        <location>Wollongong</location>
+        <price>209454</price>
+        <year>2018</year>
+    </car>
+    <car id="277">
+        <coding>277</coding>
+        <name>ALPINE A110S</name>
+        <location>Townsville</location>
+        <price>24353</price>
+        <year>2017</year>
+    </car>
+    <car id="278">
+        <coding>278</coding>
+        <name>HINDUSTAN Pushpak</name>
+        <location>Hobart</location>
+        <price>15984</price>
+        <year>2008</year>
+    </car>
+    <car id="279">
+        <coding>279</coding>
+        <name>PERODUA Alza</name>
+        <location>Perth</location>
+        <price>173658</price>
+        <year>2008</year>
+    </car>
+    <car id="280">
+        <coding>280</coding>
+        <name>LAMBORGHINI Huracan Evo RWD</name>
+        <location>Hobart</location>
+        <price>346745</price>
+        <year>2011</year>
+    </car>
+    <car id="281">
+        <coding>281</coding>
+        <name>VOLKSWAGEN Passat GTE</name>
+        <location>Geelong</location>
+        <price>85355</price>
+        <year>2020</year>
+    </car>
+    <car id="282">
+        <coding>282</coding>
+        <name>SMART EQ fortwo</name>
+        <location>Cairns</location>
+        <price>779900</price>
+        <year>2017</year>
+    </car>
+    <car id="283">
+        <coding>283</coding>
+        <name>TOYOTA Highlander</name>
+        <location>Hobart</location>
+        <price>522715</price>
+        <year>2011</year>
+    </car>
+    <car id="284">
+        <coding>284</coding>
+        <name>HYUNDAI Elantra N Line</name>
+        <location>Cairns</location>
+        <price>949638</price>
+        <year>2013</year>
+    </car>
+    <car id="285">
+        <coding>285</coding>
+        <name>Zenvo TS1</name>
+        <location>Jervis Bay</location>
+        <price>677597</price>
+        <year>2001</year>
+    </car>
+    <car id="286">
+        <coding>286</coding>
+        <name>ISUZU D-Max Double Cab</name>
+        <location>Caloundra</location>
+        <price>135866</price>
+        <year>2018</year>
+    </car>
+    <car id="287">
+        <coding>287</coding>
+        <name>Zenvo TSR-S</name>
+        <location>Gold Coast</location>
+        <price>483637</price>
+        <year>2009</year>
+    </car>
+    <car id="288">
+        <coding>288</coding>
+        <name>HOLDEN Commodore</name>
+        <location>Perth</location>
+        <price>345073</price>
+        <year>2001</year>
+    </car>
+    <car id="289">
+        <coding>289</coding>
+        <name>DAIHATSU Sirion</name>
+        <location>Perth</location>
+        <price>64880</price>
+        <year>2005</year>
+    </car>
+    <car id="290">
+        <coding>290</coding>
+        <name>DS AUTOMOBILES DS 5</name>
+        <location>Cairns</location>
+        <price>232776</price>
+        <year>2010</year>
+    </car>
+    <car id="291">
+        <coding>291</coding>
+        <name>PEUGEOT 508 SW PSE</name>
+        <location>Toowoomba</location>
+        <price>624038</price>
+        <year>2017</year>
+    </car>
+    <car id="292">
+        <coding>292</coding>
+        <name>FIAT 500e</name>
+        <location>Jervis Bay</location>
+        <price>135496</price>
+        <year>2010</year>
+    </car>
+    <car id="293">
+        <coding>293</coding>
+        <name>JEEP Renegade</name>
+        <location>Gold Coast</location>
+        <price>432033</price>
+        <year>2009</year>
+    </car>
+    <car id="294">
+        <coding>294</coding>
+        <name>GTA Motor GTA Spano</name>
+        <location>Brisbane</location>
+        <price>117686</price>
+        <year>2004</year>
+    </car>
+    <car id="295">
+        <coding>295</coding>
+        <name>Mercedes-Benz AMG GT C</name>
+        <location>Newcastle</location>
+        <price>618045</price>
+        <year>2013</year>
+    </car>
+    <car id="296">
+        <coding>296</coding>
+        <name>FSO Prima</name>
+        <location>Adelaide</location>
+        <price>906544</price>
+        <year>2019</year>
+    </car>
+    <car id="297">
+        <coding>297</coding>
+        <name>CITROEN C3</name>
+        <location>Melbourne</location>
+        <price>66694</price>
+        <year>2019</year>
+    </car>
+    <car id="298">
+        <coding>298</coding>
+        <name>GMC Sierra 2500HD</name>
+        <location>Melbourne</location>
+        <price>15128</price>
+        <year>2016</year>
+    </car>
+    <car id="299">
+        <coding>299</coding>
+        <name>MAYBACH 57 Zeppelin</name>
+        <location>Jervis Bay</location>
+        <price>556583</price>
+        <year>2005</year>
+    </car>
+    <car id="300">
+        <coding>300</coding>
+        <name>FORD C-Max</name>
+        <location>Gold Coast</location>
+        <price>351732</price>
+        <year>2011</year>
+    </car>
+    <car id="301">
+        <coding>301</coding>
+        <name>DATSUN Mi-Do</name>
+        <location>Hobart</location>
+        <price>951844</price>
+        <year>2003</year>
+    </car>
+    <car id="302">
+        <coding>302</coding>
+        <name>LINCOLN Corsair</name>
+        <location>Sydney</location>
+        <price>350914</price>
+        <year>2004</year>
+    </car>
+    <car id="303">
+        <coding>303</coding>
+        <name>DODGE Durango</name>
+        <location>Toowoomba</location>
+        <price>95894</price>
+        <year>2010</year>
+    </car>
+    <car id="304">
+        <coding>304</coding>
+        <name>BRISTOL Series 6</name>
+        <location>Wollongong</location>
+        <price>249138</price>
+        <year>2007</year>
+    </car>
+    <car id="305">
+        <coding>305</coding>
+        <name>ACURA MDX A-Spec</name>
+        <location>Hobart</location>
+        <price>584070</price>
+        <year>2001</year>
+    </car>
+    <car id="306">
+        <coding>306</coding>
+        <name>OLDSMOBILE Aurora</name>
+        <location>Newcastle</location>
+        <price>965442</price>
+        <year>2003</year>
+    </car>
+    <car id="307">
+        <coding>307</coding>
+        <name>PROTON Iriz</name>
+        <location>Norfolk Island</location>
+        <price>889308</price>
+        <year>2014</year>
+    </car>
+    <car id="308">
+        <coding>308</coding>
+        <name>FISKER Karma</name>
+        <location>Toowoomba</location>
+        <price>15066</price>
+        <year>2002</year>
+    </car>
+    <car id="309">
+        <coding>309</coding>
+        <name>MITSUBISHI Mirage GT</name>
+        <location>Toowoomba</location>
+        <price>192581</price>
+        <year>2001</year>
+    </car>
+    <car id="310">
+        <coding>310</coding>
+        <name>PANOZ Esperante GTLM</name>
+        <location>Caloundra</location>
+        <price>21478</price>
+        <year>2016</year>
+    </car>
+    <car id="311">
+        <coding>311</coding>
+        <name>CHEVROLET Sonic</name>
+        <location>Gold Coast</location>
+        <price>917243</price>
+        <year>2008</year>
+    </car>
+    <car id="312">
+        <coding>312</coding>
+        <name>MINI Clubman</name>
+        <location>Christmas Island</location>
+        <price>99712</price>
+        <year>2006</year>
+    </car>
+    <car id="313">
+        <coding>313</coding>
+        <name>TATA MOTORS Nexon</name>
+        <location>Brisbane</location>
+        <price>153966</price>
+        <year>2016</year>
+    </car>
+    <car id="314">
+        <coding>314</coding>
+        <name>DS AUTOMOBILES DS 9</name>
+        <location>Brisbane</location>
+        <price>31453</price>
+        <year>2011</year>
+    </car>
+    <car id="315">
+        <coding>315</coding>
+        <name>ACURA ILX</name>
+        <location>Brisbane</location>
+        <price>20467</price>
+        <year>2014</year>
+    </car>
+    <car id="316">
+        <coding>316</coding>
+        <name>DAEWOO Matiz</name>
+        <location>Canberra</location>
+        <price>869818</price>
+        <year>2002</year>
+    </car>
+    <car id="317">
+        <coding>317</coding>
+        <name>PEUGEOT 5008</name>
+        <location>Townsville</location>
+        <price>917683</price>
+        <year>2010</year>
+    </car>
+    <car id="318">
+        <coding>318</coding>
+        <name>BRISTOL Fighter T</name>
+        <location>Canberra</location>
+        <price>709225</price>
+        <year>2001</year>
+    </car>
+    <car id="319">
+        <coding>319</coding>
+        <name>SUBARU Outback</name>
+        <location>Caloundra</location>
+        <price>301582</price>
+        <year>2016</year>
+    </car>
+    <car id="320">
+        <coding>320</coding>
+        <name>Zenvo TSR-S</name>
+        <location>Brisbane</location>
+        <price>443318</price>
+        <year>2017</year>
+    </car>
+    <car id="321">
+        <coding>321</coding>
+        <name>MINI Countryman</name>
+        <location>Hobart</location>
+        <price>37301</price>
+        <year>2011</year>
+    </car>
+    <car id="322">
+        <coding>322</coding>
+        <name>Mahindra Bolero</name>
+        <location>Brisbane</location>
+        <price>921354</price>
+        <year>2009</year>
+    </car>
+    <car id="323">
+        <coding>323</coding>
+        <name>ARO 24</name>
+        <location>Newcastle</location>
+        <price>899763</price>
+        <year>2000</year>
+    </car>
+    <car id="324">
+        <coding>324</coding>
+        <name>HINDUSTAN RTV</name>
+        <location>Cocos Keeling Islands</location>
+        <price>880981</price>
+        <year>2017</year>
+    </car>
+    <car id="325">
+        <coding>325</coding>
+        <name>TATA MOTORS Harrier</name>
+        <location>Cairns</location>
+        <price>652484</price>
+        <year>2002</year>
+    </car>
+    <car id="326">
+        <coding>326</coding>
+        <name>LEXUS IS</name>
+        <location>Perth</location>
+        <price>332861</price>
+        <year>2015</year>
+    </car>
+    <car id="327">
+        <coding>327</coding>
+        <name>SMART EQ forfour</name>
+        <location>Newcastle</location>
+        <price>503730</price>
+        <year>2016</year>
+    </car>
+    <car id="328">
+        <coding>328</coding>
+        <name>ROLLS-ROYCE Cullinan</name>
+        <location>Toowoomba</location>
+        <price>460035</price>
+        <year>2002</year>
+    </car>
+    <car id="329">
+        <coding>329</coding>
+        <name>ISUZU D-Max Arctic Trucks AT35</name>
+        <location>Geelong</location>
+        <price>236708</price>
+        <year>2019</year>
+    </car>
+    <car id="330">
+        <coding>330</coding>
+        <name>SALEEN S7</name>
+        <location>Christmas Island</location>
+        <price>252483</price>
+        <year>2006</year>
+    </car>
+    <car id="331">
+        <coding>331</coding>
+        <name>LOTUS Evora GT</name>
+        <location>Jervis Bay</location>
+        <price>177973</price>
+        <year>2003</year>
+    </car>
+    <car id="332">
+        <coding>332</coding>
+        <name>PERODUA Alza</name>
+        <location>Toowoomba</location>
+        <price>244798</price>
+        <year>2017</year>
+    </car>
+    <car id="333">
+        <coding>333</coding>
+        <name>CATERHAM Super Seven 1600</name>
+        <location>Newcastle</location>
+        <price>695732</price>
+        <year>2009</year>
+    </car>
+    <car id="334">
+        <coding>334</coding>
+        <name>SSANGYONG Tivoli</name>
+        <location>Gold Coast</location>
+        <price>212413</price>
+        <year>2012</year>
+    </car>
+    <car id="335">
+        <coding>335</coding>
+        <name>LAMBORGHINI Sian Roadster</name>
+        <location>Geelong</location>
+        <price>67212</price>
+        <year>2000</year>
+    </car>
+    <car id="336">
+        <coding>336</coding>
+        <name>MERCEDES BENZ S-Class</name>
+        <location>Cairns</location>
+        <price>699291</price>
+        <year>2011</year>
+    </car>
+    <car id="337">
+        <coding>337</coding>
+        <name>SPYKER C8 Preliator</name>
+        <location>Cocos Keeling Islands</location>
+        <price>711801</price>
+        <year>2009</year>
+    </car>
+    <car id="338">
+        <coding>338</coding>
+        <name>SMART EQ forfour</name>
+        <location>Norfolk Island</location>
+        <price>677539</price>
+        <year>2007</year>
+    </car>
+    <car id="339">
+        <coding>339</coding>
+        <name>CADILLAC Escalade</name>
+        <location>Hobart</location>
+        <price>374099</price>
+        <year>2008</year>
+    </car>
+    <car id="340">
+        <coding>340</coding>
+        <name>RENAULT Talisman Estate</name>
+        <location>Sydney</location>
+        <price>716842</price>
+        <year>2006</year>
+    </car>
+    <car id="341">
+        <coding>341</coding>
+        <name>Zenvo ST1</name>
+        <location>Toowoomba</location>
+        <price>528600</price>
+        <year>2004</year>
+    </car>
+    <car id="342">
+        <coding>342</coding>
+        <name>BMW 7 Series LCI</name>
+        <location>Melbourne</location>
+        <price>499172</price>
+        <year>2004</year>
+    </car>
+    <car id="343">
+        <coding>343</coding>
+        <name>HONDA Jazz</name>
+        <location>Jervis Bay</location>
+        <price>175161</price>
+        <year>2014</year>
+    </car>
+    <car id="344">
+        <coding>344</coding>
+        <name>VOLKSWAGEN ID.3</name>
+        <location>Norfolk Island</location>
+        <price>551691</price>
+        <year>2000</year>
+    </car>
+    <car id="345">
+        <coding>345</coding>
+        <name>MG HS</name>
+        <location>Brisbane</location>
+        <price>861941</price>
+        <year>2013</year>
+    </car>
+    <car id="346">
+        <coding>346</coding>
+        <name>SPYKER C12 LaTurbie</name>
+        <location>Perth</location>
+        <price>498271</price>
+        <year>2007</year>
+    </car>
+    <car id="347">
+        <coding>347</coding>
+        <name>BRISTOL Series 6</name>
+        <location>Canberra</location>
+        <price>509995</price>
+        <year>2000</year>
+    </car>
+    <car id="348">
+        <coding>348</coding>
+        <name>GTA Motor GTA Spano</name>
+        <location>Sydney</location>
+        <price>237581</price>
+        <year>2012</year>
+    </car>
+    <car id="349">
+        <coding>349</coding>
+        <name>CHEVROLET Traverse</name>
+        <location>Wollongong</location>
+        <price>391201</price>
+        <year>2001</year>
+    </car>
+    <car id="350">
+        <coding>350</coding>
+        <name>SEAT Leon 5 doors</name>
+        <location>Brisbane</location>
+        <price>803150</price>
+        <year>2001</year>
+    </car>
+    <car id="351">
+        <coding>351</coding>
+        <name>TESLA MOTORS Cybertruck</name>
+        <location>Wollongong</location>
+        <price>358693</price>
+        <year>2000</year>
+    </car>
+    <car id="352">
+        <coding>352</coding>
+        <name>FIAT 500e</name>
+        <location>Toowoomba</location>
+        <price>918344</price>
+        <year>2012</year>
+    </car>
+    <car id="353">
+        <coding>353</coding>
+        <name>NISSAN Sentra</name>
+        <location>Geelong</location>
+        <price>246496</price>
+        <year>2014</year>
+    </car>
+    <car id="354">
+        <coding>354</coding>
+        <name>Karma Revero GT</name>
+        <location>Perth</location>
+        <price>356688</price>
+        <year>2019</year>
+    </car>
+    <car id="355">
+        <coding>355</coding>
+        <name>PERODUA Alza</name>
+        <location>Caloundra</location>
+        <price>852517</price>
+        <year>2014</year>
+    </car>
+    <car id="356">
+        <coding>356</coding>
+        <name>PAGANI Huayra Roadster</name>
+        <location>Sydney</location>
+        <price>675470</price>
+        <year>2014</year>
+    </car>
+    <car id="357">
+        <coding>357</coding>
+        <name>BUGATTI Centodieci</name>
+        <location>Cairns</location>
+        <price>146600</price>
+        <year>2016</year>
+    </car>
+    <car id="358">
+        <coding>358</coding>
+        <name>VOLKSWAGEN Passat GTE</name>
+        <location>Caloundra</location>
+        <price>78026</price>
+        <year>2020</year>
+    </car>
+    <car id="359">
+        <coding>359</coding>
+        <name>BUICK Regal Sportback</name>
+        <location>Brisbane</location>
+        <price>392808</price>
+        <year>2013</year>
+    </car>
+    <car id="360">
+        <coding>360</coding>
+        <name>BUICK Regal</name>
+        <location>Norfolk Island</location>
+        <price>197686</price>
+        <year>2007</year>
+    </car>
+    <car id="361">
+        <coding>361</coding>
+        <name>DR MOTOR dr2</name>
+        <location>Toowoomba</location>
+        <price>542607</price>
+        <year>2013</year>
+    </car>
+    <car id="362">
+        <coding>362</coding>
+        <name>VAUXHALL Astra Sports Tourer</name>
+        <location>Cairns</location>
+        <price>273756</price>
+        <year>2017</year>
+    </car>
+    <car id="363">
+        <coding>363</coding>
+        <name>GTA Motor GTA Spano</name>
+        <location>Norfolk Island</location>
+        <price>973151</price>
+        <year>2004</year>
+    </car>
+    <car id="364">
+        <coding>364</coding>
+        <name>CITROEN C4</name>
+        <location>Cairns</location>
+        <price>967512</price>
+        <year>2009</year>
+    </car>
+    <car id="365">
+        <coding>365</coding>
+        <name>CUPRA Formentor</name>
+        <location>Toowoomba</location>
+        <price>372330</price>
+        <year>2007</year>
+    </car>
+    <car id="366">
+        <coding>366</coding>
+        <name>TATA MOTORS Harrier</name>
+        <location>Jervis Bay</location>
+        <price>713603</price>
+        <year>2008</year>
+    </car>
+    <car id="367">
+        <coding>367</coding>
+        <name>LANCIA Delta</name>
+        <location>Newcastle</location>
+        <price>459768</price>
+        <year>2011</year>
+    </car>
+    <car id="368">
+        <coding>368</coding>
+        <name>TOYOTA Avensis Wagon</name>
+        <location>Norfolk Island</location>
+        <price>419812</price>
+        <year>2008</year>
+    </car>
+    <car id="369">
+        <coding>369</coding>
+        <name>VOLVO XC90</name>
+        <location>Caloundra</location>
+        <price>820451</price>
+        <year>2018</year>
+    </car>
+    <car id="370">
+        <coding>370</coding>
+        <name>HUMMER H2 SUT</name>
+        <location>Wollongong</location>
+        <price>895599</price>
+        <year>2014</year>
+    </car>
+    <car id="371">
+        <coding>371</coding>
+        <name>KTM X-Bow GT</name>
+        <location>Toowoomba</location>
+        <price>35160</price>
+        <year>2010</year>
+    </car>
+    <car id="372">
+        <coding>372</coding>
+        <name>PERODUA Myvi</name>
+        <location>Caloundra</location>
+        <price>407345</price>
+        <year>2016</year>
+    </car>
+    <car id="373">
+        <coding>373</coding>
+        <name>MINI John Cooper Works GP</name>
+        <location>Newcastle</location>
+        <price>729402</price>
+        <year>2012</year>
+    </car>
+    <car id="374">
+        <coding>374</coding>
+        <name>LAND ROVER Discovery Sport</name>
+        <location>Cairns</location>
+        <price>995751</price>
+        <year>2007</year>
+    </car>
+    <car id="375">
+        <coding>375</coding>
+        <name>HINDUSTAN Pushpak</name>
+        <location>Jervis Bay</location>
+        <price>569993</price>
+        <year>2001</year>
+    </car>
+    <car id="376">
+        <coding>376</coding>
+        <name>OLDSMOBILE Aurora</name>
+        <location>Gold Coast</location>
+        <price>758296</price>
+        <year>2011</year>
+    </car>
+    <car id="377">
+        <coding>377</coding>
+        <name>DAIHATSU Cuore</name>
+        <location>Sydney</location>
+        <price>986003</price>
+        <year>2013</year>
+    </car>
+    <car id="378">
+        <coding>378</coding>
+        <name>SMART EQ fortwo</name>
+        <location>Perth</location>
+        <price>37199</price>
+        <year>2000</year>
+    </car>
+    <car id="379">
+        <coding>379</coding>
+        <name>CHRYSLER 300</name>
+        <location>Jervis Bay</location>
+        <price>298220</price>
+        <year>2017</year>
+    </car>
+    <car id="380">
+        <coding>380</coding>
+        <name>SCION iQ</name>
+        <location>Jervis Bay</location>
+        <price>200812</price>
+        <year>2000</year>
+    </car>
+    <car id="381">
+        <coding>381</coding>
+        <name>FERRARI F8 Spider</name>
+        <location>Norfolk Island</location>
+        <price>558824</price>
+        <year>2018</year>
+    </car>
+    <car id="382">
+        <coding>382</coding>
+        <name>SEAT Leon 5 doors</name>
+        <location>Cairns</location>
+        <price>683868</price>
+        <year>2011</year>
+    </car>
+    <car id="383">
+        <coding>383</coding>
+        <name>JEEP Renegade</name>
+        <location>Gold Coast</location>
+        <price>230448</price>
+        <year>2008</year>
+    </car>
+    <car id="384">
+        <coding>384</coding>
+        <name>TVR 350i Convertible</name>
+        <location>Cairns</location>
+        <price>199520</price>
+        <year>2008</year>
+    </car>
+    <car id="385">
+        <coding>385</coding>
+        <name>Mahindra Verito</name>
+        <location>Gold Coast</location>
+        <price>521305</price>
+        <year>2019</year>
+    </car>
+    <car id="386">
+        <coding>386</coding>
+        <name>BMW 7 Series LCI</name>
+        <location>Geelong</location>
+        <price>363604</price>
+        <year>2004</year>
+    </car>
+    <car id="387">
+        <coding>387</coding>
+        <name>PROTON Ertiga</name>
+        <location>Christmas Island</location>
+        <price>970555</price>
+        <year>2001</year>
+    </car>
+    <car id="388">
+        <coding>388</coding>
+        <name>SALEEN S7</name>
+        <location>Canberra</location>
+        <price>319041</price>
+        <year>2016</year>
+    </car>
+    <car id="389">
+        <coding>389</coding>
+        <name>TVR Griffith</name>
+        <location>Cocos Keeling Islands</location>
+        <price>715610</price>
+        <year>2004</year>
+    </car>
+    <car id="390">
+        <coding>390</coding>
+        <name>PERODUA Myvi</name>
+        <location>Norfolk Island</location>
+        <price>895823</price>
+        <year>2011</year>
+    </car>
+    <car id="391">
+        <coding>391</coding>
+        <name>MAZDA 2</name>
+        <location>Cairns</location>
+        <price>340531</price>
+        <year>2020</year>
+    </car>
+    <car id="392">
+        <coding>392</coding>
+        <name>GENESIS G90</name>
+        <location>Canberra</location>
+        <price>459500</price>
+        <year>2017</year>
+    </car>
+    <car id="393">
+        <coding>393</coding>
+        <name>OPEL Mokka-e</name>
+        <location>Gold Coast</location>
+        <price>442223</price>
+        <year>2015</year>
+    </car>
+    <car id="394">
+        <coding>394</coding>
+        <name>LOTUS Exige 410 Sport</name>
+        <location>Perth</location>
+        <price>488621</price>
+        <year>2002</year>
+    </car>
+    <car id="395">
+        <coding>395</coding>
+        <name>NISSAN Rogue</name>
+        <location>Gold Coast</location>
+        <price>228581</price>
+        <year>2014</year>
+    </car>
+    <car id="396">
+        <coding>396</coding>
+        <name>BMW X7</name>
+        <location>Norfolk Island</location>
+        <price>559019</price>
+        <year>2000</year>
+    </car>
+    <car id="397">
+        <coding>397</coding>
+        <name>RENAULT Talisman</name>
+        <location>Gold Coast</location>
+        <price>700294</price>
+        <year>2008</year>
+    </car>
+    <car id="398">
+        <coding>398</coding>
+        <name>TESLA MOTORS Model X</name>
+        <location>Norfolk Island</location>
+        <price>280411</price>
+        <year>2006</year>
+    </car>
+    <car id="399">
+        <coding>399</coding>
+        <name>SCION iM</name>
+        <location>Melbourne</location>
+        <price>385459</price>
+        <year>2008</year>
+    </car>
+    <car id="400">
+        <coding>400</coding>
+        <name>SAMSUNG SM 5</name>
+        <location>Melbourne</location>
+        <price>238213</price>
+        <year>2011</year>
+    </car>
+    <car id="401">
+        <coding>401</coding>
+        <name>MERCURY Grand Marquis</name>
+        <location>Canberra</location>
+        <price>553715</price>
+        <year>2006</year>
+    </car>
+    <car id="402">
+        <coding>402</coding>
+        <name>ACURA TLX</name>
+        <location>Canberra</location>
+        <price>181020</price>
+        <year>2013</year>
+    </car>
+    <car id="403">
+        <coding>403</coding>
+        <name>MCLAREN 620R</name>
+        <location>Melbourne</location>
+        <price>454044</price>
+        <year>2009</year>
+    </car>
+    <car id="404">
+        <coding>404</coding>
+        <name>ALFA ROMEO Stelvio Quadrifoglio</name>
+        <location>Gold Coast</location>
+        <price>861669</price>
+        <year>2018</year>
+    </car>
+    <car id="405">
+        <coding>405</coding>
+        <name>CADILLAC Escalade</name>
+        <location>Toowoomba</location>
+        <price>987949</price>
+        <year>2013</year>
+    </car>
+    <car id="406">
+        <coding>406</coding>
+        <name>CATERHAM Superlight</name>
+        <location>Cocos Keeling Islands</location>
+        <price>347305</price>
+        <year>2002</year>
+    </car>
+    <car id="407">
+        <coding>407</coding>
+        <name>MORGAN Plus Four</name>
+        <location>Toowoomba</location>
+        <price>827163</price>
+        <year>2010</year>
+    </car>
+    <car id="408">
+        <coding>408</coding>
+        <name>RENAULT Talisman Estate</name>
+        <location>Townsville</location>
+        <price>611421</price>
+        <year>2016</year>
+    </car>
+    <car id="409">
+        <coding>409</coding>
+        <name>SAMSUNG SM 5</name>
+        <location>Newcastle</location>
+        <price>912593</price>
+        <year>2000</year>
+    </car>
+    <car id="410">
+        <coding>410</coding>
+        <name>PROTON Perdana</name>
+        <location>Townsville</location>
+        <price>868240</price>
+        <year>2012</year>
+    </car>
+    <car id="411">
+        <coding>411</coding>
+        <name>SKODA Octavia Scout</name>
+        <location>Canberra</location>
+        <price>848653</price>
+        <year>2016</year>
+    </car>
+    <car id="412">
+        <coding>412</coding>
+        <name>PEUGEOT 508 SW PSE</name>
+        <location>Cairns</location>
+        <price>887423</price>
+        <year>2016</year>
+    </car>
+    <car id="413">
+        <coding>413</coding>
+        <name>DS AUTOMOBILES DS 3 Crossback</name>
+        <location>Perth</location>
+        <price>654691</price>
+        <year>2005</year>
+    </car>
+    <car id="414">
+        <coding>414</coding>
+        <name>SATURN Aura</name>
+        <location>Wollongong</location>
+        <price>154505</price>
+        <year>2011</year>
+    </car>
+    <car id="415">
+        <coding>415</coding>
+        <name>LAMBORGHINI Sian Roadster</name>
+        <location>Melbourne</location>
+        <price>792669</price>
+        <year>2012</year>
+    </car>
+    <car id="416">
+        <coding>416</coding>
+        <name>TVR 350i Convertible</name>
+        <location>Melbourne</location>
+        <price>769999</price>
+        <year>2015</year>
+    </car>
+    <car id="417">
+        <coding>417</coding>
+        <name>SMART EQ fortwo</name>
+        <location>Christmas Island</location>
+        <price>567785</price>
+        <year>2020</year>
+    </car>
+    <car id="418">
+        <coding>418</coding>
+        <name>HINDUSTAN Ambassador</name>
+        <location>Toowoomba</location>
+        <price>447578</price>
+        <year>2002</year>
+    </car>
+    <car id="419">
+        <coding>419</coding>
+        <name>CHRYSLER 300</name>
+        <location>Gold Coast</location>
+        <price>196226</price>
+        <year>2003</year>
+    </car>
+    <car id="420">
+        <coding>420</coding>
+        <name>GMC Sierra Denali</name>
+        <location>Melbourne</location>
+        <price>829304</price>
+        <year>2011</year>
+    </car>
+    <car id="421">
+        <coding>421</coding>
+        <name>SEAT Ateca</name>
+        <location>Cairns</location>
+        <price>201705</price>
+        <year>2016</year>
+    </car>
+    <car id="422">
+        <coding>422</coding>
+        <name>LINCOLN Navigator L</name>
+        <location>Cairns</location>
+        <price>153290</price>
+        <year>2015</year>
+    </car>
+    <car id="423">
+        <coding>423</coding>
+        <name>Karma Revero GTS</name>
+        <location>Adelaide</location>
+        <price>959994</price>
+        <year>2004</year>
+    </car>
+    <car id="424">
+        <coding>424</coding>
+        <name>NISSAN Rogue</name>
+        <location>Wollongong</location>
+        <price>936761</price>
+        <year>2012</year>
+    </car>
+    <car id="425">
+        <coding>425</coding>
+        <name>HYUNDAI Elantra N Line</name>
+        <location>Canberra</location>
+        <price>508106</price>
+        <year>2006</year>
+    </car>
+    <car id="426">
+        <coding>426</coding>
+        <name>BRISTOL Bullet</name>
+        <location>Jervis Bay</location>
+        <price>224905</price>
+        <year>2016</year>
+    </car>
+    <car id="427">
+        <coding>427</coding>
+        <name>JAGUAR F-Type Convertible</name>
+        <location>Cocos Keeling Islands</location>
+        <price>862325</price>
+        <year>2017</year>
+    </car>
+    <car id="428">
+        <coding>428</coding>
+        <name>GMC Sierra Denali</name>
+        <location>Canberra</location>
+        <price>493499</price>
+        <year>2017</year>
+    </car>
+    <car id="429">
+        <coding>429</coding>
+        <name>CADILLAC XT5</name>
+        <location>Christmas Island</location>
+        <price>666747</price>
+        <year>2000</year>
+    </car>
+    <car id="430">
+        <coding>430</coding>
+        <name>FSO Prima</name>
+        <location>Canberra</location>
+        <price>340669</price>
+        <year>2020</year>
+    </car>
+    <car id="431">
+        <coding>431</coding>
+        <name>KIA K5</name>
+        <location>Toowoomba</location>
+        <price>751530</price>
+        <year>2017</year>
+    </car>
+    <car id="432">
+        <coding>432</coding>
+        <name>MARUSSIA B2</name>
+        <location>Newcastle</location>
+        <price>580784</price>
+        <year>2010</year>
+    </car>
+    <car id="433">
+        <coding>433</coding>
+        <name>WIESMANN MF5 Roadster</name>
+        <location>Geelong</location>
+        <price>917511</price>
+        <year>2011</year>
+    </car>
+    <car id="434">
+        <coding>434</coding>
+        <name>SANTANA 300 - 350</name>
+        <location>Caloundra</location>
+        <price>220859</price>
+        <year>2011</year>
+    </car>
+    <car id="435">
+        <coding>435</coding>
+        <name>SCION iM</name>
+        <location>Canberra</location>
+        <price>171393</price>
+        <year>2016</year>
+    </car>
+    <car id="436">
+        <coding>436</coding>
+        <name>HINDUSTAN Pushpak</name>
+        <location>Townsville</location>
+        <price>607435</price>
+        <year>2003</year>
+    </car>
+    <car id="437">
+        <coding>437</coding>
+        <name>ALFA ROMEO MiTo</name>
+        <location>Newcastle</location>
+        <price>13164</price>
+        <year>2018</year>
+    </car>
+    <car id="438">
+        <coding>438</coding>
+        <name>MAZDA 2</name>
+        <location>Brisbane</location>
+        <price>639331</price>
+        <year>2010</year>
+    </car>
+    <car id="439">
+        <coding>439</coding>
+        <name>LADA Kalina Hatchback</name>
+        <location>Cocos Keeling Islands</location>
+        <price>724934</price>
+        <year>2000</year>
+    </car>
+    <car id="440">
+        <coding>440</coding>
+        <name>CITROEN C3</name>
+        <location>Newcastle</location>
+        <price>839238</price>
+        <year>2019</year>
+    </car>
+    <car id="441">
+        <coding>441</coding>
+        <name>PEUGEOT 508 PSE</name>
+        <location>Cocos Keeling Islands</location>
+        <price>657866</price>
+        <year>2006</year>
+    </car>
+    <car id="442">
+        <coding>442</coding>
+        <name>LINCOLN Corsair</name>
+        <location>Toowoomba</location>
+        <price>664545</price>
+        <year>2009</year>
+    </car>
+    <car id="443">
+        <coding>443</coding>
+        <name>LAND ROVER Defender 110</name>
+        <location>Toowoomba</location>
+        <price>841399</price>
+        <year>2018</year>
+    </car>
+    <car id="444">
+        <coding>444</coding>
+        <name>ZENDER Straight 8</name>
+        <location>Melbourne</location>
+        <price>415354</price>
+        <year>2010</year>
+    </car>
+    <car id="445">
+        <coding>445</coding>
+        <name>MAZDA MX-30</name>
+        <location>Canberra</location>
+        <price>656409</price>
+        <year>2019</year>
+    </car>
+    <car id="446">
+        <coding>446</coding>
+        <name>ALPINE A106</name>
+        <location>Melbourne</location>
+        <price>535099</price>
+        <year>2010</year>
+    </car>
+    <car id="447">
+        <coding>447</coding>
+        <name>ACURA ILX</name>
+        <location>Cairns</location>
+        <price>261516</price>
+        <year>2011</year>
+    </car>
+    <car id="448">
+        <coding>448</coding>
+        <name>DR MOTOR dr CityCross</name>
+        <location>Melbourne</location>
+        <price>256710</price>
+        <year>2008</year>
+    </car>
+    <car id="449">
+        <coding>449</coding>
+        <name>MERCURY Mariner</name>
+        <location>Geelong</location>
+        <price>959211</price>
+        <year>2001</year>
+    </car>
+    <car id="450">
+        <coding>450</coding>
+        <name>MCLAREN 765LT</name>
+        <location>Melbourne</location>
+        <price>764740</price>
+        <year>2019</year>
+    </car>
+    <car id="451">
+        <coding>451</coding>
+        <name>SANTANA PS 10 Pickup</name>
+        <location>Cocos Keeling Islands</location>
+        <price>875969</price>
+        <year>2007</year>
+    </car>
+    <car id="452">
+        <coding>452</coding>
+        <name>CADILLAC CT5-V</name>
+        <location>Wollongong</location>
+        <price>471393</price>
+        <year>2015</year>
+    </car>
+    <car id="453">
+        <coding>453</coding>
+        <name>PANOZ Roadster</name>
+        <location>Townsville</location>
+        <price>408047</price>
+        <year>2007</year>
+    </car>
+    <car id="454">
+        <coding>454</coding>
+        <name>SSANGYONG Tivoli</name>
+        <location>Norfolk Island</location>
+        <price>941880</price>
+        <year>2010</year>
+    </car>
+    <car id="455">
+        <coding>455</coding>
+        <name>TVR Chimaera</name>
+        <location>Hobart</location>
+        <price>452131</price>
+        <year>2007</year>
+    </car>
+    <car id="456">
+        <coding>456</coding>
+        <name>SMART EQ fortwo</name>
+        <location>Norfolk Island</location>
+        <price>672029</price>
+        <year>2005</year>
+    </car>
+    <car id="457">
+        <coding>457</coding>
+        <name>LEXUS LS</name>
+        <location>Adelaide</location>
+        <price>447520</price>
+        <year>2009</year>
+    </car>
+    <car id="458">
+        <coding>458</coding>
+        <name>DAIHATSU Sirion</name>
+        <location>Jervis Bay</location>
+        <price>698592</price>
+        <year>2003</year>
+    </car>
+    <car id="459">
+        <coding>459</coding>
+        <name>MASERATI Quattroporte Trofeo</name>
+        <location>Jervis Bay</location>
+        <price>534029</price>
+        <year>2013</year>
+    </car>
+    <car id="460">
+        <coding>460</coding>
+        <name>DATSUN on-Do</name>
+        <location>Brisbane</location>
+        <price>730157</price>
+        <year>2003</year>
+    </car>
+    <car id="461">
+        <coding>461</coding>
+        <name>DAEWOO Nubira Estate</name>
+        <location>Perth</location>
+        <price>497278</price>
+        <year>2010</year>
+    </car>
+    <car id="462">
+        <coding>462</coding>
+        <name>ISUZU MU-7</name>
+        <location>Brisbane</location>
+        <price>374113</price>
+        <year>2018</year>
+    </car>
+    <car id="463">
+        <coding>463</coding>
+        <name>KTM X-Bow GT</name>
+        <location>Jervis Bay</location>
+        <price>300561</price>
+        <year>2020</year>
+    </car>
+    <car id="464">
+        <coding>464</coding>
+        <name>ALPINE A106</name>
+        <location>Wollongong</location>
+        <price>482594</price>
+        <year>2015</year>
+    </car>
+    <car id="465">
+        <coding>465</coding>
+        <name>BRISTOL Bullet</name>
+        <location>Jervis Bay</location>
+        <price>319969</price>
+        <year>2009</year>
+    </car>
+    <car id="466">
+        <coding>466</coding>
+        <name>SUZUKI Swift</name>
+        <location>Cairns</location>
+        <price>877823</price>
+        <year>2018</year>
+    </car>
+    <car id="467">
+        <coding>467</coding>
+        <name>TVR Chimaera</name>
+        <location>Perth</location>
+        <price>636944</price>
+        <year>2001</year>
+    </car>
+    <car id="468">
+        <coding>468</coding>
+        <name>ALFA ROMEO Stelvio Quadrifoglio</name>
+        <location>Cairns</location>
+        <price>864795</price>
+        <year>2003</year>
+    </car>
+    <car id="469">
+        <coding>469</coding>
+        <name>SATURN Astra</name>
+        <location>Sydney</location>
+        <price>969946</price>
+        <year>2020</year>
+    </car>
+    <car id="470">
+        <coding>470</coding>
+        <name>MAZDA 2</name>
+        <location>Cairns</location>
+        <price>276727</price>
+        <year>2011</year>
+    </car>
+    <car id="471">
+        <coding>471</coding>
+        <name>INFINITI EX37</name>
+        <location>Perth</location>
+        <price>104412</price>
+        <year>2019</year>
+    </car>
+    <car id="472">
+        <coding>472</coding>
+        <name>LOTUS Evija</name>
+        <location>Cocos Keeling Islands</location>
+        <price>36199</price>
+        <year>2008</year>
+    </car>
+    <car id="473">
+        <coding>473</coding>
+        <name>INFINITI Q60</name>
+        <location>Newcastle</location>
+        <price>857698</price>
+        <year>2004</year>
+    </car>
+    <car id="474">
+        <coding>474</coding>
+        <name>KOENIGSEGG Agera RS</name>
+        <location>Hobart</location>
+        <price>472427</price>
+        <year>2001</year>
+    </car>
+    <car id="475">
+        <coding>475</coding>
+        <name>AUDI S5 Cabriolet</name>
+        <location>Canberra</location>
+        <price>133154</price>
+        <year>2005</year>
+    </car>
+    <car id="476">
+        <coding>476</coding>
+        <name>MAZDA MX-30</name>
+        <location>Newcastle</location>
+        <price>832579</price>
+        <year>2003</year>
+    </car>
+    <car id="477">
+        <coding>477</coding>
+        <name>SUBARU Outback</name>
+        <location>Adelaide</location>
+        <price>295049</price>
+        <year>2019</year>
+    </car>
+    <car id="478">
+        <coding>478</coding>
+        <name>DATSUN Mi-Do</name>
+        <location>Wollongong</location>
+        <price>702585</price>
+        <year>2003</year>
+    </car>
+    <car id="479">
+        <coding>479</coding>
+        <name>PONTIAC Bonneville</name>
+        <location>Newcastle</location>
+        <price>133495</price>
+        <year>2017</year>
+    </car>
+    <car id="480">
+        <coding>480</coding>
+        <name>SUZUKI Swace</name>
+        <location>Hobart</location>
+        <price>340363</price>
+        <year>2017</year>
+    </car>
+    <car id="481">
+        <coding>481</coding>
+        <name>CITROEN AMI</name>
+        <location>Perth</location>
+        <price>166071</price>
+        <year>2019</year>
+    </car>
+    <car id="482">
+        <coding>482</coding>
+        <name>TOYOTA Avensis Wagon</name>
+        <location>Townsville</location>
+        <price>141876</price>
+        <year>2007</year>
+    </car>
+    <car id="483">
+        <coding>483</coding>
+        <name>Mahindra Bolero</name>
+        <location>Wollongong</location>
+        <price>840316</price>
+        <year>2012</year>
+    </car>
+    <car id="484">
+        <coding>484</coding>
+        <name>GENESIS G90</name>
+        <location>Perth</location>
+        <price>697976</price>
+        <year>2019</year>
+    </car>
+    <car id="485">
+        <coding>485</coding>
+        <name>TESLA MOTORS Model Y</name>
+        <location>Jervis Bay</location>
+        <price>168762</price>
+        <year>2012</year>
+    </car>
+    <car id="486">
+        <coding>486</coding>
+        <name>BUICK Regal Sportback</name>
+        <location>Gold Coast</location>
+        <price>197439</price>
+        <year>2008</year>
+    </car>
+    <car id="487">
+        <coding>487</coding>
+        <name>KTM X-Bow R</name>
+        <location>Caloundra</location>
+        <price>545719</price>
+        <year>2003</year>
+    </car>
+    <car id="488">
+        <coding>488</coding>
+        <name>SMART EQ forfour</name>
+        <location>Townsville</location>
+        <price>39147</price>
+        <year>2003</year>
+    </car>
+    <car id="489">
+        <coding>489</coding>
+        <name>TESLA MOTORS Cybertruck</name>
+        <location>Adelaide</location>
+        <price>92448</price>
+        <year>2017</year>
+    </car>
+    <car id="490">
+        <coding>490</coding>
+        <name>DR MOTOR dr5</name>
+        <location>Canberra</location>
+        <price>63816</price>
+        <year>2006</year>
+    </car>
+    <car id="491">
+        <coding>491</coding>
+        <name>GTA Motor GTA Spano</name>
+        <location>Sydney</location>
+        <price>554938</price>
+        <year>2016</year>
+    </car>
+    <car id="492">
+        <coding>492</coding>
+        <name>MARUTI SUZUKI Ciaz</name>
+        <location>Hobart</location>
+        <price>703229</price>
+        <year>2020</year>
+    </car>
+    <car id="493">
+        <coding>493</coding>
+        <name>MERCURY Milan</name>
+        <location>Adelaide</location>
+        <price>665944</price>
+        <year>2018</year>
+    </car>
+    <car id="494">
+        <coding>494</coding>
+        <name>MERCEDES BENZ E-Class</name>
+        <location>Christmas Island</location>
+        <price>882383</price>
+        <year>2007</year>
+    </car>
+    <car id="495">
+        <coding>495</coding>
+        <name>INFINITI QX70</name>
+        <location>Jervis Bay</location>
+        <price>560480</price>
+        <year>2018</year>
+    </car>
+    <car id="496">
+        <coding>496</coding>
+        <name>PONTIAC Bonneville</name>
+        <location>Hobart</location>
+        <price>557493</price>
+        <year>2014</year>
+    </car>
+    <car id="497">
+        <coding>497</coding>
+        <name>SMART EQ fortwo</name>
+        <location>Wollongong</location>
+        <price>511441</price>
+        <year>2015</year>
+    </car>
+    <car id="498">
+        <coding>498</coding>
+        <name>MASERATI Ghibli Trofeo</name>
+        <location>Wollongong</location>
+        <price>190273</price>
+        <year>2001</year>
+    </car>
+    <car id="499">
+        <coding>499</coding>
+        <name>ASTON MARTIN DBX</name>
+        <location>Newcastle</location>
+        <price>269523</price>
+        <year>2018</year>
+    </car>
+    <car id="500">
+        <coding>500</coding>
+        <name>BUICK Encore GX</name>
+        <location>Melbourne</location>
+        <price>596430</price>
+        <year>2010</year>
+    </car>
+    <car id="501">
+        <coding>501</coding>
+        <name>ARIEL Atom 500 V8</name>
+        <location>Jervis Bay</location>
+        <price>589150</price>
+        <year>2013</year>
+    </car>
+    <car id="502">
+        <coding>502</coding>
+        <name>DACIA Logan</name>
+        <location>Cairns</location>
+        <price>913797</price>
+        <year>2011</year>
+    </car>
+    <car id="503">
+        <coding>503</coding>
+        <name>NISSAN Sentra</name>
+        <location>Sydney</location>
+        <price>849547</price>
+        <year>2014</year>
+    </car>
+    <car id="504">
+        <coding>504</coding>
+        <name>HUMMER H2 SUT</name>
+        <location>Sydney</location>
+        <price>603037</price>
+        <year>2016</year>
+    </car>
+    <car id="505">
+        <coding>505</coding>
+        <name>FORD C-Max</name>
+        <location>Caloundra</location>
+        <price>787679</price>
+        <year>2014</year>
+    </car>
+    <car id="506">
+        <coding>506</coding>
+        <name>FERRARI F8 Spider</name>
+        <location>Perth</location>
+        <price>751349</price>
+        <year>2008</year>
+    </car>
+    <car id="507">
+        <coding>507</coding>
+        <name>DR MOTOR dr CityCross</name>
+        <location>Geelong</location>
+        <price>747206</price>
+        <year>2011</year>
+    </car>
+    <car id="508">
+        <coding>508</coding>
+        <name>HINDUSTAN Ambassador</name>
+        <location>Brisbane</location>
+        <price>197096</price>
+        <year>2000</year>
+    </car>
+    <car id="509">
+        <coding>509</coding>
+        <name>CADILLAC CT5-V</name>
+        <location>Hobart</location>
+        <price>45151</price>
+        <year>2015</year>
+    </car>
+    <car id="510">
+        <coding>510</coding>
+        <name>MORGAN Plus Four</name>
+        <location>Townsville</location>
+        <price>60806</price>
+        <year>2016</year>
+    </car>
+    <car id="511">
+        <coding>511</coding>
+        <name>CITROEN AMI</name>
+        <location>Adelaide</location>
+        <price>235451</price>
+        <year>2006</year>
+    </car>
+    <car id="512">
+        <coding>512</coding>
+        <name>ASTON MARTIN DBX</name>
+        <location>Hobart</location>
+        <price>815446</price>
+        <year>2014</year>
+    </car>
+    <car id="513">
+        <coding>513</coding>
+        <name>DAEWOO Nubira Hatchback</name>
+        <location>Melbourne</location>
+        <price>496076</price>
+        <year>2013</year>
+    </car>
+    <car id="514">
+        <coding>514</coding>
+        <name>BRISTOL Series 6</name>
+        <location>Norfolk Island</location>
+        <price>36426</price>
+        <year>2017</year>
+    </car>
+    <car id="515">
+        <coding>515</coding>
+        <name>ARIEL Atom 500 V8</name>
+        <location>Newcastle</location>
+        <price>333889</price>
+        <year>2008</year>
+    </car>
+    <car id="516">
+        <coding>516</coding>
+        <name>CADILLAC XT5</name>
+        <location>Perth</location>
+        <price>209247</price>
+        <year>2001</year>
+    </car>
+    <car id="517">
+        <coding>517</coding>
+        <name>INFINITI Q60</name>
+        <location>Hobart</location>
+        <price>298945</price>
+        <year>2013</year>
+    </car>
+    <car id="518">
+        <coding>518</coding>
+        <name>GEELY MK2 (Hatch)</name>
+        <location>Toowoomba</location>
+        <price>580228</price>
+        <year>2012</year>
+    </car>
+    <car id="519">
+        <coding>519</coding>
+        <name>FSO Prima</name>
+        <location>Christmas Island</location>
+        <price>557379</price>
+        <year>2000</year>
+    </car>
+    <car id="520">
+        <coding>520</coding>
+        <name>Zenvo ST1</name>
+        <location>Hobart</location>
+        <price>743238</price>
+        <year>2008</year>
+    </car>
+    <car id="521">
+        <coding>521</coding>
+        <name>AUDI SQ5</name>
+        <location>Caloundra</location>
+        <price>389590</price>
+        <year>2018</year>
+    </car>
+    <car id="522">
+        <coding>522</coding>
+        <name>LAND ROVER Defender 90</name>
+        <location>Cocos Keeling Islands</location>
+        <price>342870</price>
+        <year>2001</year>
+    </car>
+    <car id="523">
+        <coding>523</coding>
+        <name>BUFORI MK II</name>
+        <location>Melbourne</location>
+        <price>937885</price>
+        <year>2017</year>
+    </car>
+    <car id="524">
+        <coding>524</coding>
+        <name>MAYBACH 57 Zeppelin</name>
+        <location>Caloundra</location>
+        <price>311981</price>
+        <year>2002</year>
+    </car>
+    <car id="525">
+        <coding>525</coding>
+        <name>SANTANA PS 10 Shortline</name>
+        <location>Cocos Keeling Islands</location>
+        <price>905267</price>
+        <year>2004</year>
+    </car>
+    <car id="526">
+        <coding>526</coding>
+        <name>HOLDEN Commodore</name>
+        <location>Wollongong</location>
+        <price>419023</price>
+        <year>2015</year>
+    </car>
+    <car id="527">
+        <coding>527</coding>
+        <name>ZENDER Straight 8</name>
+        <location>Wollongong</location>
+        <price>894554</price>
+        <year>2010</year>
+    </car>
+    <car id="528">
+        <coding>528</coding>
+        <name>PORSCHE Panamera 4S Sport Turismo</name>
+        <location>Jervis Bay</location>
+        <price>28108</price>
+        <year>2016</year>
+    </car>
+    <car id="529">
+        <coding>529</coding>
+        <name>ALFA ROMEO MiTo</name>
+        <location>Newcastle</location>
+        <price>644490</price>
+        <year>2005</year>
+    </car>
+    <car id="530">
+        <coding>530</coding>
+        <name>CUPRA Formentor</name>
+        <location>Norfolk Island</location>
+        <price>312227</price>
+        <year>2010</year>
+    </car>
+    <car id="531">
+        <coding>531</coding>
+        <name>PORSCHE 911</name>
+        <location>Hobart</location>
+        <price>397051</price>
+        <year>2019</year>
+    </car>
+    <car id="532">
+        <coding>532</coding>
+        <name>ISUZU D-Max Arctic Trucks AT35</name>
+        <location>Canberra</location>
+        <price>467550</price>
+        <year>2017</year>
+    </car>
+    <car id="533">
+        <coding>533</coding>
+        <name>CUPRA Leon 5 doors</name>
+        <location>Brisbane</location>
+        <price>57606</price>
+        <year>2015</year>
+    </car>
+    <car id="534">
+        <coding>534</coding>
+        <name>Polestar Polestar 2</name>
+        <location>Hobart</location>
+        <price>524249</price>
+        <year>2018</year>
+    </car>
+    <car id="535">
+        <coding>535</coding>
+        <name>ARO 24</name>
+        <location>Brisbane</location>
+        <price>947128</price>
+        <year>2018</year>
+    </car>
+    <car id="536">
+        <coding>536</coding>
+        <name>ARO 24</name>
+        <location>Perth</location>
+        <price>826761</price>
+        <year>2016</year>
+    </car>
+    <car id="537">
+        <coding>537</coding>
+        <name>ASTON MARTIN Vantage Roadster</name>
+        <location>Gold Coast</location>
+        <price>343116</price>
+        <year>2017</year>
+    </car>
+    <car id="538">
+        <coding>538</coding>
+        <name>BMW 8-Series Convertible</name>
+        <location>Hobart</location>
+        <price>383927</price>
+        <year>2009</year>
+    </car>
+    <car id="539">
+        <coding>539</coding>
+        <name>HUMMER H3</name>
+        <location>Caloundra</location>
+        <price>933435</price>
+        <year>2010</year>
+    </car>
+    <car id="540">
+        <coding>540</coding>
+        <name>BUICK Regal</name>
+        <location>Canberra</location>
+        <price>496937</price>
+        <year>2016</year>
+    </car>
+    <car id="541">
+        <coding>541</coding>
+        <name>KIA K5</name>
+        <location>Perth</location>
+        <price>134723</price>
+        <year>2000</year>
+    </car>
+    <car id="542">
+        <coding>542</coding>
+        <name>CHRYSLER 300</name>
+        <location>Cocos Keeling Islands</location>
+        <price>520509</price>
+        <year>2019</year>
+    </car>
+    <car id="543">
+        <coding>543</coding>
+        <name>MERCEDES BENZ E-Class</name>
+        <location>Hobart</location>
+        <price>704574</price>
+        <year>2005</year>
+    </car>
+    <car id="544">
+        <coding>544</coding>
+        <name>TESLA MOTORS Model S</name>
+        <location>Adelaide</location>
+        <price>580228</price>
+        <year>2005</year>
+    </car>
+    <car id="545">
+        <coding>545</coding>
+        <name>PROTON Perdana</name>
+        <location>Cairns</location>
+        <price>174146</price>
+        <year>2018</year>
+    </car>
+    <car id="546">
+        <coding>546</coding>
+        <name>KOENIGSEGG Jesko</name>
+        <location>Newcastle</location>
+        <price>576484</price>
+        <year>2002</year>
+    </car>
+    <car id="547">
+        <coding>547</coding>
+        <name>ALFA ROMEO Giulia GTA</name>
+        <location>Cocos Keeling Islands</location>
+        <price>35404</price>
+        <year>2017</year>
+    </car>
+    <car id="548">
+        <coding>548</coding>
+        <name>BMW 7 Series LCI</name>
+        <location>Adelaide</location>
+        <price>892933</price>
+        <year>2016</year>
+    </car>
+    <car id="549">
+        <coding>549</coding>
+        <name>KOENIGSEGG Agera RS</name>
+        <location>Adelaide</location>
+        <price>624655</price>
+        <year>2005</year>
+    </car>
+    <car id="550">
+        <coding>550</coding>
+        <name>DONKERVOORT D8</name>
+        <location>Toowoomba</location>
+        <price>574903</price>
+        <year>2020</year>
+    </car>
+    <car id="551">
+        <coding>551</coding>
+        <name>SUZUKI Swace</name>
+        <location>Gold Coast</location>
+        <price>361570</price>
+        <year>2020</year>
+    </car>
+    <car id="552">
+        <coding>552</coding>
+        <name>SUZUKI Swace</name>
+        <location>Canberra</location>
+        <price>870699</price>
+        <year>2014</year>
+    </car>
+    <car id="553">
+        <coding>553</coding>
+        <name>ACURA TLX</name>
+        <location>Wollongong</location>
+        <price>430360</price>
+        <year>2016</year>
+    </car>
+    <car id="554">
+        <coding>554</coding>
+        <name>CADILLAC CT5-V</name>
+        <location>Jervis Bay</location>
+        <price>496198</price>
+        <year>2000</year>
+    </car>
+    <car id="555">
+        <coding>555</coding>
+        <name>KIA Rio</name>
+        <location>Brisbane</location>
+        <price>397293</price>
+        <year>2003</year>
+    </car>
+    <car id="556">
+        <coding>556</coding>
+        <name>TVR Chimaera</name>
+        <location>Newcastle</location>
+        <price>910708</price>
+        <year>2003</year>
+    </car>
+    <car id="557">
+        <coding>557</coding>
+        <name>TESLA MOTORS Cybertruck</name>
+        <location>Townsville</location>
+        <price>206236</price>
+        <year>2006</year>
+    </car>
+    <car id="558">
+        <coding>558</coding>
+        <name>ALPINE A108</name>
+        <location>Sydney</location>
+        <price>539482</price>
+        <year>2002</year>
+    </car>
+    <car id="559">
+        <coding>559</coding>
+        <name>HYUNDAI Tucson</name>
+        <location>Brisbane</location>
+        <price>481389</price>
+        <year>2014</year>
+    </car>
+    <car id="560">
+        <coding>560</coding>
+        <name>MORGAN Plus Six</name>
+        <location>Hobart</location>
+        <price>685849</price>
+        <year>2005</year>
+    </car>
+    <car id="561">
+        <coding>561</coding>
+        <name>DAEWOO Nubira Hatchback</name>
+        <location>Cairns</location>
+        <price>243898</price>
+        <year>2015</year>
+    </car>
+    <car id="562">
+        <coding>562</coding>
+        <name>HOLDEN Captiva</name>
+        <location>Hobart</location>
+        <price>583357</price>
+        <year>2014</year>
+    </car>
+    <car id="563">
+        <coding>563</coding>
+        <name>ALPINE A108</name>
+        <location>Townsville</location>
+        <price>306536</price>
+        <year>2017</year>
+    </car>
+    <car id="564">
+        <coding>564</coding>
+        <name>GENESIS GV80</name>
+        <location>Christmas Island</location>
+        <price>865895</price>
+        <year>2020</year>
+    </car>
+    <car id="565">
+        <coding>565</coding>
+        <name>PERODUA Alza</name>
+        <location>Jervis Bay</location>
+        <price>68108</price>
+        <year>2004</year>
+    </car>
+    <car id="566">
+        <coding>566</coding>
+        <name>SANTANA PS 10 Pickup</name>
+        <location>Melbourne</location>
+        <price>331196</price>
+        <year>2002</year>
+    </car>
+    <car id="567">
+        <coding>567</coding>
+        <name>SKODA Enyaq iV</name>
+        <location>Geelong</location>
+        <price>426786</price>
+        <year>2006</year>
+    </car>
+    <car id="568">
+        <coding>568</coding>
+        <name>RENAULT Talisman</name>
+        <location>Gold Coast</location>
+        <price>820661</price>
+        <year>2008</year>
+    </car>
+    <car id="569">
+        <coding>569</coding>
+        <name>KTM X-Bow R</name>
+        <location>Jervis Bay</location>
+        <price>39033</price>
+        <year>2003</year>
+    </car>
+    <car id="570">
+        <coding>570</coding>
+        <name>Karma Revero GT</name>
+        <location>Hobart</location>
+        <price>635935</price>
+        <year>2013</year>
+    </car>
+    <car id="571">
+        <coding>571</coding>
+        <name>KIA K5</name>
+        <location>Wollongong</location>
+        <price>118309</price>
+        <year>2004</year>
+    </car>
+    <car id="572">
+        <coding>572</coding>
+        <name>PONTIAC Bonneville</name>
+        <location>Hobart</location>
+        <price>720161</price>
+        <year>2006</year>
+    </car>
+    <car id="573">
+        <coding>573</coding>
+        <name>CUPRA Leon 5 doors</name>
+        <location>Wollongong</location>
+        <price>545237</price>
+        <year>2000</year>
+    </car>
+    <car id="574">
+        <coding>574</coding>
+        <name>ALFA ROMEO Stelvio Quadrifoglio</name>
+        <location>Cairns</location>
+        <price>559344</price>
+        <year>2010</year>
+    </car>
+    <car id="575">
+        <coding>575</coding>
+        <name>CADILLAC XT5</name>
+        <location>Hobart</location>
+        <price>998393</price>
+        <year>2008</year>
+    </car>
+    <car id="576">
+        <coding>576</coding>
+        <name>SALEEN S7</name>
+        <location>Sydney</location>
+        <price>606754</price>
+        <year>2005</year>
+    </car>
+    <car id="577">
+        <coding>577</coding>
+        <name>FISKER Karma</name>
+        <location>Caloundra</location>
+        <price>272425</price>
+        <year>2015</year>
+    </car>
+    <car id="578">
+        <coding>578</coding>
+        <name>VOLKSWAGEN ID.3</name>
+        <location>Wollongong</location>
+        <price>560797</price>
+        <year>2011</year>
+    </car>
+    <car id="579">
+        <coding>579</coding>
+        <name>ASTON MARTIN DB11</name>
+        <location>Norfolk Island</location>
+        <price>67667</price>
+        <year>2009</year>
+    </car>
+    <car id="580">
+        <coding>580</coding>
+        <name>SMART EQ forfour</name>
+        <location>Gold Coast</location>
+        <price>894285</price>
+        <year>2005</year>
+    </car>
+    <car id="581">
+        <coding>581</coding>
+        <name>TOYOTA Avensis Wagon</name>
+        <location>Brisbane</location>
+        <price>972921</price>
+        <year>2017</year>
+    </car>
+    <car id="582">
+        <coding>582</coding>
+        <name>LOTUS Evora GT</name>
+        <location>Brisbane</location>
+        <price>430531</price>
+        <year>2019</year>
+    </car>
+    <car id="583">
+        <coding>583</coding>
+        <name>PEUGEOT 508 PSE</name>
+        <location>Cairns</location>
+        <price>390596</price>
+        <year>2016</year>
+    </car>
+    <car id="584">
+        <coding>584</coding>
+        <name>MASERATI Ghibli Trofeo</name>
+        <location>Caloundra</location>
+        <price>829211</price>
+        <year>2009</year>
+    </car>
+    <car id="585">
+        <coding>585</coding>
+        <name>JEEP Gladiator</name>
+        <location>Melbourne</location>
+        <price>420891</price>
+        <year>2008</year>
+    </car>
+    <car id="586">
+        <coding>586</coding>
+        <name>DR MOTOR dr5</name>
+        <location>Norfolk Island</location>
+        <price>382399</price>
+        <year>2011</year>
+    </car>
+    <car id="587">
+        <coding>587</coding>
+        <name>ALFA ROMEO Giulia GTA</name>
+        <location>Sydney</location>
+        <price>309182</price>
+        <year>2019</year>
+    </car>
+    <car id="588">
+        <coding>588</coding>
+        <name>SEAT Leon 5 doors</name>
+        <location>Norfolk Island</location>
+        <price>358732</price>
+        <year>2015</year>
+    </car>
+    <car id="589">
+        <coding>589</coding>
+        <name>SATURN Astra</name>
+        <location>Perth</location>
+        <price>778310</price>
+        <year>2017</year>
+    </car>
+    <car id="590">
+        <coding>590</coding>
+        <name>BUGATTI Chiron Pur Sport</name>
+        <location>Cairns</location>
+        <price>851114</price>
+        <year>2010</year>
+    </car>
+    <car id="591">
+        <coding>591</coding>
+        <name>SUZUKI Ignis</name>
+        <location>Toowoomba</location>
+        <price>294938</price>
+        <year>2005</year>
+    </car>
+    <car id="592">
+        <coding>592</coding>
+        <name>PAGANI Huayra Roadster BC</name>
+        <location>Perth</location>
+        <price>950901</price>
+        <year>2010</year>
+    </car>
+    <car id="593">
+        <coding>593</coding>
+        <name>SMART EQ forfour</name>
+        <location>Gold Coast</location>
+        <price>196667</price>
+        <year>2018</year>
+    </car>
+    <car id="594">
+        <coding>594</coding>
+        <name>PROTON Perdana</name>
+        <location>Cairns</location>
+        <price>498986</price>
+        <year>2001</year>
+    </car>
+    <car id="595">
+        <coding>595</coding>
+        <name>GENESIS G90</name>
+        <location>Cocos Keeling Islands</location>
+        <price>214084</price>
+        <year>2008</year>
+    </car>
+    <car id="596">
+        <coding>596</coding>
+        <name>ALPINE A108</name>
+        <location>Perth</location>
+        <price>911733</price>
+        <year>2015</year>
+    </car>
+    <car id="597">
+        <coding>597</coding>
+        <name>BUGATTI Chiron Pur Sport</name>
+        <location>Townsville</location>
+        <price>819418</price>
+        <year>2001</year>
+    </car>
+    <car id="598">
+        <coding>598</coding>
+        <name>FERRARI F8 Spider</name>
+        <location>Christmas Island</location>
+        <price>847154</price>
+        <year>2017</year>
+    </car>
+    <car id="599">
+        <coding>599</coding>
+        <name>TOYOTA Highlander</name>
+        <location>Canberra</location>
+        <price>370996</price>
+        <year>2017</year>
+    </car>
+    <car id="600">
+        <coding>600</coding>
+        <name>MARUSSIA B1</name>
+        <location>Townsville</location>
+        <price>544306</price>
+        <year>2017</year>
+    </car>
+    <car id="601">
+        <coding>601</coding>
+        <name>FORD F-150 Raptor SVT</name>
+        <location>Christmas Island</location>
+        <price>20172</price>
+        <year>2005</year>
+    </car>
+    <car id="602">
+        <coding>602</coding>
+        <name>CHEVROLET Sonic</name>
+        <location>Adelaide</location>
+        <price>206298</price>
+        <year>2012</year>
+    </car>
+    <car id="603">
+        <coding>603</coding>
+        <name>CATERHAM Superlight</name>
+        <location>Toowoomba</location>
+        <price>884897</price>
+        <year>2003</year>
+    </car>
+    <car id="604">
+        <coding>604</coding>
+        <name>TESLA MOTORS Model Y</name>
+        <location>Canberra</location>
+        <price>814856</price>
+        <year>2019</year>
+    </car>
+    <car id="605">
+        <coding>605</coding>
+        <name>ZENDER Thirty 7</name>
+        <location>Christmas Island</location>
+        <price>21632</price>
+        <year>2004</year>
+    </car>
+    <car id="606">
+        <coding>606</coding>
+        <name>ARO 24</name>
+        <location>Geelong</location>
+        <price>171867</price>
+        <year>2019</year>
+    </car>
+    <car id="607">
+        <coding>607</coding>
+        <name>OLDSMOBILE Aurora</name>
+        <location>Sydney</location>
+        <price>884777</price>
+        <year>2018</year>
+    </car>
+    <car id="608">
+        <coding>608</coding>
+        <name>ARO 24</name>
+        <location>Melbourne</location>
+        <price>970854</price>
+        <year>2015</year>
+    </car>
+    <car id="609">
+        <coding>609</coding>
+        <name>MARUSSIA B2</name>
+        <location>Norfolk Island</location>
+        <price>750269</price>
+        <year>2017</year>
+    </car>
+    <car id="610">
+        <coding>610</coding>
+        <name>HINDUSTAN Ambassador</name>
+        <location>Cairns</location>
+        <price>428769</price>
+        <year>2020</year>
+    </car>
+    <car id="611">
+        <coding>611</coding>
+        <name>MITSUBISHI Mirage</name>
+        <location>Toowoomba</location>
+        <price>987579</price>
+        <year>2007</year>
+    </car>
+    <car id="612">
+        <coding>612</coding>
+        <name>HONDA CR-V</name>
+        <location>Wollongong</location>
+        <price>556088</price>
+        <year>2004</year>
+    </car>
+    <car id="613">
+        <coding>613</coding>
+        <name>DAIHATSU Sirion</name>
+        <location>Geelong</location>
+        <price>181736</price>
+        <year>2005</year>
+    </car>
+    <car id="614">
+        <coding>614</coding>
+        <name>LOTUS Evija</name>
+        <location>Adelaide</location>
+        <price>180580</price>
+        <year>2012</year>
+    </car>
+    <car id="615">
+        <coding>615</coding>
+        <name>FIAT Doblo</name>
+        <location>Caloundra</location>
+        <price>644601</price>
+        <year>2017</year>
+    </car>
+    <car id="616">
+        <coding>616</coding>
+        <name>DR MOTOR dr5</name>
+        <location>Cairns</location>
+        <price>377733</price>
+        <year>2017</year>
+    </car>
+    <car id="617">
+        <coding>617</coding>
+        <name>MARUTI SUZUKI Wagon R</name>
+        <location>Caloundra</location>
+        <price>692034</price>
+        <year>2008</year>
+    </car>
+    <car id="618">
+        <coding>618</coding>
+        <name>ROLLS-ROYCE Cullinan</name>
+        <location>Geelong</location>
+        <price>758227</price>
+        <year>2016</year>
+    </car>
+    <car id="619">
+        <coding>619</coding>
+        <name>ROLLS-ROYCE Silver Dawn</name>
+        <location>Wollongong</location>
+        <price>751161</price>
+        <year>2020</year>
+    </car>
+    <car id="620">
+        <coding>620</coding>
+        <name>SKODA Octavia Scout</name>
+        <location>Hobart</location>
+        <price>940408</price>
+        <year>2020</year>
+    </car>
+    <car id="621">
+        <coding>621</coding>
+        <name>BUGATTI Chiron Super Sport 300+</name>
+        <location>Norfolk Island</location>
+        <price>129411</price>
+        <year>2006</year>
+    </car>
+    <car id="622">
+        <coding>622</coding>
+        <name>ARO 24</name>
+        <location>Cocos Keeling Islands</location>
+        <price>993175</price>
+        <year>2017</year>
+    </car>
+    <car id="623">
+        <coding>623</coding>
+        <name>DR MOTOR dr2</name>
+        <location>Christmas Island</location>
+        <price>134493</price>
+        <year>2020</year>
+    </car>
+    <car id="624">
+        <coding>624</coding>
+        <name>MITSUBISHI ASX</name>
+        <location>Melbourne</location>
+        <price>822229</price>
+        <year>2012</year>
+    </car>
+    <car id="625">
+        <coding>625</coding>
+        <name>HONDA Odyssey</name>
+        <location>Norfolk Island</location>
+        <price>772012</price>
+        <year>2009</year>
+    </car>
+    <car id="626">
+        <coding>626</coding>
+        <name>DS AUTOMOBILES DS 9</name>
+        <location>Norfolk Island</location>
+        <price>700096</price>
+        <year>2001</year>
+    </car>
+    <car id="627">
+        <coding>627</coding>
+        <name>KIA K5</name>
+        <location>Melbourne</location>
+        <price>274887</price>
+        <year>2007</year>
+    </car>
+    <car id="628">
+        <coding>628</coding>
+        <name>Karma Revero GT</name>
+        <location>Newcastle</location>
+        <price>437860</price>
+        <year>2020</year>
+    </car>
+    <car id="629">
+        <coding>629</coding>
+        <name>SCION iA</name>
+        <location>Townsville</location>
+        <price>36260</price>
+        <year>2010</year>
+    </car>
+    <car id="630">
+        <coding>630</coding>
+        <name>DAEWOO Nubira Hatchback</name>
+        <location>Caloundra</location>
+        <price>884043</price>
+        <year>2017</year>
+    </car>
+    <car id="631">
+        <coding>631</coding>
+        <name>PAGANI Huayra Roadster BC</name>
+        <location>Cocos Keeling Islands</location>
+        <price>935074</price>
+        <year>2012</year>
+    </car>
+    <car id="632">
+        <coding>632</coding>
+        <name>CUPRA Formentor</name>
+        <location>Newcastle</location>
+        <price>793546</price>
+        <year>2008</year>
+    </car>
+    <car id="633">
+        <coding>633</coding>
+        <name>MARUSSIA B1</name>
+        <location>Melbourne</location>
+        <price>60990</price>
+        <year>2020</year>
+    </car>
+    <car id="634">
+        <coding>634</coding>
+        <name>MCLAREN Elva</name>
+        <location>Sydney</location>
+        <price>177099</price>
+        <year>2002</year>
+    </car>
+    <car id="635">
+        <coding>635</coding>
+        <name>SCION iM</name>
+        <location>Sydney</location>
+        <price>62848</price>
+        <year>2020</year>
+    </car>
+    <car id="636">
+        <coding>636</coding>
+        <name>ISUZU MU-7</name>
+        <location>Adelaide</location>
+        <price>699139</price>
+        <year>2002</year>
+    </car>
+    <car id="637">
+        <coding>637</coding>
+        <name>PERODUA Alza</name>
+        <location>Geelong</location>
+        <price>32317</price>
+        <year>2007</year>
+    </car>
+    <car id="638">
+        <coding>638</coding>
+        <name>MERCURY Milan</name>
+        <location>Hobart</location>
+        <price>869538</price>
+        <year>2018</year>
+    </car>
+    <car id="639">
+        <coding>639</coding>
+        <name>TESLA MOTORS Roadster</name>
+        <location>Christmas Island</location>
+        <price>441942</price>
+        <year>2004</year>
+    </car>
+    <car id="640">
+        <coding>640</coding>
+        <name>CATERHAM Super Seven 1600</name>
+        <location>Melbourne</location>
+        <price>852130</price>
+        <year>2005</year>
+    </car>
+    <car id="641">
+        <coding>641</coding>
+        <name>OLDSMOBILE Aurora</name>
+        <location>Brisbane</location>
+        <price>454254</price>
+        <year>2005</year>
+    </car>
+    <car id="642">
+        <coding>642</coding>
+        <name>SANTANA 300 - 350</name>
+        <location>Perth</location>
+        <price>280457</price>
+        <year>2014</year>
+    </car>
+    <car id="643">
+        <coding>643</coding>
+        <name>DR MOTOR dr2</name>
+        <location>Norfolk Island</location>
+        <price>816127</price>
+        <year>2006</year>
+    </car>
+    <car id="644">
+        <coding>644</coding>
+        <name>MITSUBISHI ASX</name>
+        <location>Wollongong</location>
+        <price>438654</price>
+        <year>2000</year>
+    </car>
+    <car id="645">
+        <coding>645</coding>
+        <name>BENTLEY Bentayga</name>
+        <location>Caloundra</location>
+        <price>60061</price>
+        <year>2005</year>
+    </car>
+    <car id="646">
+        <coding>646</coding>
+        <name>HONDA Odyssey</name>
+        <location>Toowoomba</location>
+        <price>632923</price>
+        <year>2014</year>
+    </car>
+    <car id="647">
+        <coding>647</coding>
+        <name>BRISTOL Series 6</name>
+        <location>Brisbane</location>
+        <price>691570</price>
+        <year>2002</year>
+    </car>
+    <car id="648">
+        <coding>648</coding>
+        <name>MERCEDES BENZ S-Class</name>
+        <location>Melbourne</location>
+        <price>606503</price>
+        <year>2014</year>
+    </car>
+    <car id="649">
+        <coding>649</coding>
+        <name>FORD C-Max</name>
+        <location>Sydney</location>
+        <price>709353</price>
+        <year>2002</year>
+    </car>
+    <car id="650">
+        <coding>650</coding>
+        <name>Mercedes-Benz AMG GT C</name>
+        <location>Cocos Keeling Islands</location>
+        <price>308590</price>
+        <year>2013</year>
+    </car>
+    <car id="651">
+        <coding>651</coding>
+        <name>ROLLS-ROYCE Cullinan</name>
+        <location>Norfolk Island</location>
+        <price>502430</price>
+        <year>2000</year>
+    </car>
+    <car id="652">
+        <coding>652</coding>
+        <name>ARIEL Atom 3</name>
+        <location>Toowoomba</location>
+        <price>455116</price>
+        <year>2002</year>
+    </car>
+    <car id="653">
+        <coding>653</coding>
+        <name>CHEVROLET Sonic</name>
+        <location>Brisbane</location>
+        <price>965930</price>
+        <year>2002</year>
+    </car>
+    <car id="654">
+        <coding>654</coding>
+        <name>GMC Sierra Denali</name>
+        <location>Jervis Bay</location>
+        <price>636826</price>
+        <year>2019</year>
+    </car>
+    <car id="655">
+        <coding>655</coding>
+        <name>HUMMER H3 Alpha</name>
+        <location>Toowoomba</location>
+        <price>604688</price>
+        <year>2008</year>
+    </car>
+    <car id="656">
+        <coding>656</coding>
+        <name>SSANGYONG Korando</name>
+        <location>Geelong</location>
+        <price>887581</price>
+        <year>2017</year>
+    </car>
+    <car id="657">
+        <coding>657</coding>
+        <name>SPYKER C8 Preliator</name>
+        <location>Newcastle</location>
+        <price>631365</price>
+        <year>2002</year>
+    </car>
+    <car id="658">
+        <coding>658</coding>
+        <name>SATURN Aura</name>
+        <location>Christmas Island</location>
+        <price>993321</price>
+        <year>2004</year>
+    </car>
+    <car id="659">
+        <coding>659</coding>
+        <name>OLDSMOBILE Aurora</name>
+        <location>Townsville</location>
+        <price>583232</price>
+        <year>2011</year>
+    </car>
+    <car id="660">
+        <coding>660</coding>
+        <name>ASTON MARTIN DBX</name>
+        <location>Adelaide</location>
+        <price>979608</price>
+        <year>2015</year>
+    </car>
+    <car id="661">
+        <coding>661</coding>
+        <name>FSO Prima</name>
+        <location>Townsville</location>
+        <price>889332</price>
+        <year>2016</year>
+    </car>
+    <car id="662">
+        <coding>662</coding>
+        <name>ALFA ROMEO Stelvio Quadrifoglio</name>
+        <location>Sydney</location>
+        <price>523189</price>
+        <year>2001</year>
+    </car>
+    <car id="663">
+        <coding>663</coding>
+        <name>BMW 7 Series LCI</name>
+        <location>Canberra</location>
+        <price>357174</price>
+        <year>2018</year>
+    </car>
+    <car id="664">
+        <coding>664</coding>
+        <name>HUMMER H3</name>
+        <location>Adelaide</location>
+        <price>230506</price>
+        <year>2013</year>
+    </car>
+    <car id="665">
+        <coding>665</coding>
+        <name>FERRARI Portofino M</name>
+        <location>Cocos Keeling Islands</location>
+        <price>555662</price>
+        <year>2008</year>
+    </car>
+    <car id="666">
+        <coding>666</coding>
+        <name>HUMMER H3</name>
+        <location>Caloundra</location>
+        <price>53571</price>
+        <year>2007</year>
+    </car>
+    <car id="667">
+        <coding>667</coding>
+        <name>MASERATI Quattroporte Trofeo</name>
+        <location>Melbourne</location>
+        <price>608413</price>
+        <year>2012</year>
+    </car>
+    <car id="668">
+        <coding>668</coding>
+        <name>ROLLS-ROYCE Cullinan</name>
+        <location>Cairns</location>
+        <price>261158</price>
+        <year>2018</year>
+    </car>
+    <car id="669">
+        <coding>669</coding>
+        <name>KTM X-Bow RR</name>
+        <location>Wollongong</location>
+        <price>809165</price>
+        <year>2013</year>
+    </car>
+    <car id="670">
+        <coding>670</coding>
+        <name>MAYBACH Landaulet</name>
+        <location>Geelong</location>
+        <price>730719</price>
+        <year>2010</year>
+    </car>
+    <car id="671">
+        <coding>671</coding>
+        <name>HONDA Odyssey</name>
+        <location>Gold Coast</location>
+        <price>58442</price>
+        <year>2007</year>
+    </car>
+    <car id="672">
+        <coding>672</coding>
+        <name>MERCEDES BENZ EQC</name>
+        <location>Sydney</location>
+        <price>513969</price>
+        <year>2018</year>
+    </car>
+    <car id="673">
+        <coding>673</coding>
+        <name>DAEWOO Nubira Estate</name>
+        <location>Toowoomba</location>
+        <price>88169</price>
+        <year>2011</year>
+    </car>
+    <car id="674">
+        <coding>674</coding>
+        <name>HONDA Odyssey</name>
+        <location>Hobart</location>
+        <price>866571</price>
+        <year>2013</year>
+    </car>
+    <car id="675">
+        <coding>675</coding>
+        <name>CITROEN C3</name>
+        <location>Adelaide</location>
+        <price>978395</price>
+        <year>2009</year>
+    </car>
+    <car id="676">
+        <coding>676</coding>
+        <name>ARO 24</name>
+        <location>Caloundra</location>
+        <price>329826</price>
+        <year>2010</year>
+    </car>
+    <car id="677">
+        <coding>677</coding>
+        <name>SKODA Enyaq iV</name>
+        <location>Sydney</location>
+        <price>437825</price>
+        <year>2018</year>
+    </car>
+    <car id="678">
+        <coding>678</coding>
+        <name>TESLA MOTORS Model Y</name>
+        <location>Norfolk Island</location>
+        <price>399836</price>
+        <year>2011</year>
+    </car>
+    <car id="679">
+        <coding>679</coding>
+        <name>ROLLS-ROYCE Phantom</name>
+        <location>Christmas Island</location>
+        <price>657333</price>
+        <year>2008</year>
+    </car>
+    <car id="680">
+        <coding>680</coding>
+        <name>MERCEDES BENZ S-Class</name>
+        <location>Gold Coast</location>
+        <price>967038</price>
+        <year>2011</year>
+    </car>
+    <car id="681">
+        <coding>681</coding>
+        <name>CHEVROLET Traverse</name>
+        <location>Townsville</location>
+        <price>63131</price>
+        <year>2012</year>
+    </car>
+    <car id="682">
+        <coding>682</coding>
+        <name>LANCIA Delta</name>
+        <location>Geelong</location>
+        <price>596551</price>
+        <year>2014</year>
+    </car>
+    <car id="683">
+        <coding>683</coding>
+        <name>FERRARI F8 Spider</name>
+        <location>Geelong</location>
+        <price>13781</price>
+        <year>2011</year>
+    </car>
+    <car id="684">
+        <coding>684</coding>
+        <name>SUZUKI Ignis</name>
+        <location>Cocos Keeling Islands</location>
+        <price>137271</price>
+        <year>2000</year>
+    </car>
+    <car id="685">
+        <coding>685</coding>
+        <name>ALFA ROMEO MiTo</name>
+        <location>Norfolk Island</location>
+        <price>302721</price>
+        <year>2011</year>
+    </car>
+    <car id="686">
+        <coding>686</coding>
+        <name>JAGUAR F-Type Convertible</name>
+        <location>Caloundra</location>
+        <price>475135</price>
+        <year>2008</year>
+    </car>
+    <car id="687">
+        <coding>687</coding>
+        <name>MASERATI Quattroporte Trofeo</name>
+        <location>Geelong</location>
+        <price>145499</price>
+        <year>2002</year>
+    </car>
+    <car id="688">
+        <coding>688</coding>
+        <name>HOLDEN Commodore</name>
+        <location>Christmas Island</location>
+        <price>343480</price>
+        <year>2004</year>
+    </car>
+    <car id="689">
+        <coding>689</coding>
+        <name>LAMBORGHINI Huracan Evo RWD</name>
+        <location>Sydney</location>
+        <price>788377</price>
+        <year>2010</year>
+    </car>
+    <car id="690">
+        <coding>690</coding>
+        <name>MCLAREN 765LT</name>
+        <location>Jervis Bay</location>
+        <price>350947</price>
+        <year>2020</year>
+    </car>
+    <car id="691">
+        <coding>691</coding>
+        <name>PERODUA Axia</name>
+        <location>Townsville</location>
+        <price>182498</price>
+        <year>2016</year>
+    </car>
+    <car id="692">
+        <coding>692</coding>
+        <name>DATSUN on-Do</name>
+        <location>Canberra</location>
+        <price>824829</price>
+        <year>2001</year>
+    </car>
+    <car id="693">
+        <coding>693</coding>
+        <name>TOYOTA Avensis Wagon</name>
+        <location>Norfolk Island</location>
+        <price>115292</price>
+        <year>2004</year>
+    </car>
+    <car id="694">
+        <coding>694</coding>
+        <name>HUMMER H3</name>
+        <location>Norfolk Island</location>
+        <price>125322</price>
+        <year>2012</year>
+    </car>
+    <car id="695">
+        <coding>695</coding>
+        <name>Mercedes-Benz AMG GT C</name>
+        <location>Hobart</location>
+        <price>898298</price>
+        <year>2000</year>
+    </car>
+    <car id="696">
+        <coding>696</coding>
+        <name>MERCEDES BENZ G-Class</name>
+        <location>Canberra</location>
+        <price>333596</price>
+        <year>2007</year>
+    </car>
+    <car id="697">
+        <coding>697</coding>
+        <name>MITSUBISHI Mirage GT</name>
+        <location>Gold Coast</location>
+        <price>538080</price>
+        <year>2018</year>
+    </car>
+    <car id="698">
+        <coding>698</coding>
+        <name>MCLAREN Elva</name>
+        <location>Newcastle</location>
+        <price>734106</price>
+        <year>2015</year>
+    </car>
+    <car id="699">
+        <coding>699</coding>
+        <name>ZENDER Escape 6</name>
+        <location>Wollongong</location>
+        <price>714429</price>
+        <year>2008</year>
+    </car>
+    <car id="700">
+        <coding>700</coding>
+        <name>PERODUA Myvi</name>
+        <location>Jervis Bay</location>
+        <price>349089</price>
+        <year>2007</year>
+    </car>
+    <car id="701">
+        <coding>701</coding>
+        <name>LINCOLN Navigator L</name>
+        <location>Cocos Keeling Islands</location>
+        <price>357514</price>
+        <year>2014</year>
+    </car>
+    <car id="702">
+        <coding>702</coding>
+        <name>FIAT Freemont Cross</name>
+        <location>Townsville</location>
+        <price>340678</price>
+        <year>2004</year>
+    </car>
+    <car id="703">
+        <coding>703</coding>
+        <name>FSO Polonez Kombi</name>
+        <location>Toowoomba</location>
+        <price>433175</price>
+        <year>2014</year>
+    </car>
+    <car id="704">
+        <coding>704</coding>
+        <name>ASTON MARTIN Vantage Roadster</name>
+        <location>Jervis Bay</location>
+        <price>313536</price>
+        <year>2001</year>
+    </car>
+    <car id="705">
+        <coding>705</coding>
+        <name>VAUXHALL Astra Sports Tourer</name>
+        <location>Caloundra</location>
+        <price>233024</price>
+        <year>2014</year>
+    </car>
+    <car id="706">
+        <coding>706</coding>
+        <name>Mahindra Bolero</name>
+        <location>Gold Coast</location>
+        <price>618477</price>
+        <year>2001</year>
+    </car>
+    <car id="707">
+        <coding>707</coding>
+        <name>PERODUA Myvi</name>
+        <location>Caloundra</location>
+        <price>363556</price>
+        <year>2010</year>
+    </car>
+    <car id="708">
+        <coding>708</coding>
+        <name>BENTLEY Mulliner Bacalar</name>
+        <location>Melbourne</location>
+        <price>234975</price>
+        <year>2003</year>
+    </car>
+    <car id="709">
+        <coding>709</coding>
+        <name>GENESIS G80</name>
+        <location>Brisbane</location>
+        <price>155921</price>
+        <year>2020</year>
+    </car>
+    <car id="710">
+        <coding>710</coding>
+        <name>SUBARU Outback</name>
+        <location>Perth</location>
+        <price>848004</price>
+        <year>2004</year>
+    </car>
+    <car id="711">
+        <coding>711</coding>
+        <name>ALFA ROMEO MiTo</name>
+        <location>Norfolk Island</location>
+        <price>235558</price>
+        <year>2002</year>
+    </car>
+    <car id="712">
+        <coding>712</coding>
+        <name>Mahindra Verito</name>
+        <location>Jervis Bay</location>
+        <price>262135</price>
+        <year>2012</year>
+    </car>
+    <car id="713">
+        <coding>713</coding>
+        <name>DR MOTOR dr5</name>
+        <location>Townsville</location>
+        <price>448370</price>
+        <year>2013</year>
+    </car>
+    <car id="714">
+        <coding>714</coding>
+        <name>ALFA ROMEO Stelvio Quadrifoglio</name>
+        <location>Geelong</location>
+        <price>123324</price>
+        <year>2006</year>
+    </car>
+    <car id="715">
+        <coding>715</coding>
+        <name>Mercedes-Benz AMG GT C</name>
+        <location>Caloundra</location>
+        <price>417600</price>
+        <year>2019</year>
+    </car>
+    <car id="716">
+        <coding>716</coding>
+        <name>JAGUAR F-Type Convertible</name>
+        <location>Melbourne</location>
+        <price>696312</price>
+        <year>2009</year>
+    </car>
+    <car id="717">
+        <coding>717</coding>
+        <name>Mahindra Verito</name>
+        <location>Jervis Bay</location>
+        <price>353112</price>
+        <year>2013</year>
+    </car>
+    <car id="718">
+        <coding>718</coding>
+        <name>SANTANA PS 10 Shortline</name>
+        <location>Cocos Keeling Islands</location>
+        <price>243070</price>
+        <year>2018</year>
+    </car>
+    <car id="719">
+        <coding>719</coding>
+        <name>HUMMER H3 Alpha</name>
+        <location>Cocos Keeling Islands</location>
+        <price>972245</price>
+        <year>2011</year>
+    </car>
+    <car id="720">
+        <coding>720</coding>
+        <name>MAYBACH 57 Zeppelin</name>
+        <location>Cairns</location>
+        <price>955232</price>
+        <year>2017</year>
+    </car>
+    <car id="721">
+        <coding>721</coding>
+        <name>ASTON MARTIN DB11</name>
+        <location>Wollongong</location>
+        <price>648913</price>
+        <year>2005</year>
+    </car>
+    <car id="722">
+        <coding>722</coding>
+        <name>SANTANA 300 - 350</name>
+        <location>Townsville</location>
+        <price>870919</price>
+        <year>2017</year>
+    </car>
+    <car id="723">
+        <coding>723</coding>
+        <name>OLDSMOBILE Intrigue</name>
+        <location>Toowoomba</location>
+        <price>35153</price>
+        <year>2020</year>
+    </car>
+    <car id="724">
+        <coding>724</coding>
+        <name>SSANGYONG Tivoli</name>
+        <location>Newcastle</location>
+        <price>953911</price>
+        <year>2000</year>
+    </car>
+    <car id="725">
+        <coding>725</coding>
+        <name>CHEVROLET Traverse</name>
+        <location>Townsville</location>
+        <price>886771</price>
+        <year>2005</year>
+    </car>
+    <car id="726">
+        <coding>726</coding>
+        <name>CHRYSLER Pacifica</name>
+        <location>Wollongong</location>
+        <price>330575</price>
+        <year>2012</year>
+    </car>
+    <car id="727">
+        <coding>727</coding>
+        <name>GMC Sierra 2500HD</name>
+        <location>Jervis Bay</location>
+        <price>922285</price>
+        <year>2015</year>
+    </car>
+    <car id="728">
+        <coding>728</coding>
+        <name>DODGE Charger SRT Hellcat Widebody</name>
+        <location>Jervis Bay</location>
+        <price>447501</price>
+        <year>2010</year>
+    </car>
+    <car id="729">
+        <coding>729</coding>
+        <name>WIESMANN GT MF4-CS</name>
+        <location>Geelong</location>
+        <price>651851</price>
+        <year>2018</year>
+    </car>
+    <car id="730">
+        <coding>730</coding>
+        <name>OPEL Sports Tourer</name>
+        <location>Christmas Island</location>
+        <price>550244</price>
+        <year>2019</year>
+    </car>
+    <car id="731">
+        <coding>731</coding>
+        <name>Mahindra Thar</name>
+        <location>Adelaide</location>
+        <price>740326</price>
+        <year>2017</year>
+    </car>
+    <car id="732">
+        <coding>732</coding>
+        <name>PORSCHE Panamera 4S Sport Turismo</name>
+        <location>Norfolk Island</location>
+        <price>791139</price>
+        <year>2002</year>
+    </car>
+    <car id="733">
+        <coding>733</coding>
+        <name>LADA Priora</name>
+        <location>Hobart</location>
+        <price>396174</price>
+        <year>2006</year>
+    </car>
+    <car id="734">
+        <coding>734</coding>
+        <name>MG GS</name>
+        <location>Geelong</location>
+        <price>811590</price>
+        <year>2000</year>
+    </car>
+    <car id="735">
+        <coding>735</coding>
+        <name>SANTANA PS 10 Shortline</name>
+        <location>Newcastle</location>
+        <price>595379</price>
+        <year>2000</year>
+    </car>
+    <car id="736">
+        <coding>736</coding>
+        <name>DACIA Logan</name>
+        <location>Melbourne</location>
+        <price>701774</price>
+        <year>2013</year>
+    </car>
+    <car id="737">
+        <coding>737</coding>
+        <name>CITROEN C4</name>
+        <location>Perth</location>
+        <price>357044</price>
+        <year>2005</year>
+    </car>
+    <car id="738">
+        <coding>738</coding>
+        <name>Mahindra Thar</name>
+        <location>Sydney</location>
+        <price>598195</price>
+        <year>2019</year>
+    </car>
+    <car id="739">
+        <coding>739</coding>
+        <name>BMW X7</name>
+        <location>Toowoomba</location>
+        <price>274878</price>
+        <year>2016</year>
+    </car>
+    <car id="740">
+        <coding>740</coding>
+        <name>Karma Revero GT</name>
+        <location>Cocos Keeling Islands</location>
+        <price>377000</price>
+        <year>2000</year>
+    </car>
+    <car id="741">
+        <coding>741</coding>
+        <name>PONTIAC Bonneville</name>
+        <location>Melbourne</location>
+        <price>36211</price>
+        <year>2018</year>
+    </car>
+    <car id="742">
+        <coding>742</coding>
+        <name>OLDSMOBILE Intrigue</name>
+        <location>Jervis Bay</location>
+        <price>158509</price>
+        <year>2006</year>
+    </car>
+    <car id="743">
+        <coding>743</coding>
+        <name>LAMBORGHINI Sian Roadster</name>
+        <location>Christmas Island</location>
+        <price>667759</price>
+        <year>2004</year>
+    </car>
+    <car id="744">
+        <coding>744</coding>
+        <name>ZENDER Escape 6</name>
+        <location>Cocos Keeling Islands</location>
+        <price>605870</price>
+        <year>2016</year>
+    </car>
+    <car id="745">
+        <coding>745</coding>
+        <name>FIAT Freemont Cross</name>
+        <location>Canberra</location>
+        <price>714786</price>
+        <year>2016</year>
+    </car>
+    <car id="746">
+        <coding>746</coding>
+        <name>PROTON Ertiga</name>
+        <location>Brisbane</location>
+        <price>268283</price>
+        <year>2015</year>
+    </car>
+    <car id="747">
+        <coding>747</coding>
+        <name>KTM X-Bow RR</name>
+        <location>Townsville</location>
+        <price>557862</price>
+        <year>2003</year>
+    </car>
+    <car id="748">
+        <coding>748</coding>
+        <name>VAUXHALL Zafira Tourer</name>
+        <location>Brisbane</location>
+        <price>336709</price>
+        <year>2000</year>
+    </car>
+    <car id="749">
+        <coding>749</coding>
+        <name>DONKERVOORT D8</name>
+        <location>Melbourne</location>
+        <price>608891</price>
+        <year>2007</year>
+    </car>
+    <car id="750">
+        <coding>750</coding>
+        <name>BENTLEY Mulliner Bacalar</name>
+        <location>Melbourne</location>
+        <price>697508</price>
+        <year>2015</year>
+    </car>
+    <car id="751">
+        <coding>751</coding>
+        <name>OLDSMOBILE Aurora</name>
+        <location>Hobart</location>
+        <price>165582</price>
+        <year>2001</year>
+    </car>
+    <car id="752">
+        <coding>752</coding>
+        <name>MINI John Cooper Works GP</name>
+        <location>Geelong</location>
+        <price>126918</price>
+        <year>2015</year>
+    </car>
+    <car id="753">
+        <coding>753</coding>
+        <name>Karma Revero GT</name>
+        <location>Christmas Island</location>
+        <price>981058</price>
+        <year>2001</year>
+    </car>
+    <car id="754">
+        <coding>754</coding>
+        <name>TESLA MOTORS Model S</name>
+        <location>Cairns</location>
+        <price>846833</price>
+        <year>2006</year>
+    </car>
+    <car id="755">
+        <coding>755</coding>
+        <name>BRISTOL Series 6</name>
+        <location>Hobart</location>
+        <price>52761</price>
+        <year>2001</year>
+    </car>
+    <car id="756">
+        <coding>756</coding>
+        <name>PONTIAC Bonneville</name>
+        <location>Cairns</location>
+        <price>89768</price>
+        <year>2018</year>
+    </car>
+    <car id="757">
+        <coding>757</coding>
+        <name>HINDUSTAN RTV</name>
+        <location>Caloundra</location>
+        <price>932362</price>
+        <year>2011</year>
+    </car>
+    <car id="758">
+        <coding>758</coding>
+        <name>MERCEDES BENZ B-Class</name>
+        <location>Hobart</location>
+        <price>78487</price>
+        <year>2007</year>
+    </car>
+    <car id="759">
+        <coding>759</coding>
+        <name>SANTANA PS 10 Shortline</name>
+        <location>Brisbane</location>
+        <price>835818</price>
+        <year>2014</year>
+    </car>
+    <car id="760">
+        <coding>760</coding>
+        <name>HYUNDAI Tucson</name>
+        <location>Brisbane</location>
+        <price>753187</price>
+        <year>2003</year>
+    </car>
+    <car id="761">
+        <coding>761</coding>
+        <name>MITSUBISHI Mirage GT</name>
+        <location>Geelong</location>
+        <price>180299</price>
+        <year>2005</year>
+    </car>
+    <car id="762">
+        <coding>762</coding>
+        <name>Mahindra Verito</name>
+        <location>Geelong</location>
+        <price>216685</price>
+        <year>2016</year>
+    </car>
+    <car id="763">
+        <coding>763</coding>
+        <name>DAIHATSU Sirion</name>
+        <location>Newcastle</location>
+        <price>242126</price>
+        <year>2017</year>
+    </car>
+    <car id="764">
+        <coding>764</coding>
+        <name>JAGUAR F-Pace</name>
+        <location>Brisbane</location>
+        <price>395541</price>
+        <year>2001</year>
+    </car>
+    <car id="765">
+        <coding>765</coding>
+        <name>BRISTOL Bullet</name>
+        <location>Newcastle</location>
+        <price>417418</price>
+        <year>2015</year>
+    </car>
+    <car id="766">
+        <coding>766</coding>
+        <name>ARIEL Nomad</name>
+        <location>Cairns</location>
+        <price>812529</price>
+        <year>2001</year>
+    </car>
+    <car id="767">
+        <coding>767</coding>
+        <name>SAMSUNG SM 7</name>
+        <location>Caloundra</location>
+        <price>874634</price>
+        <year>2012</year>
+    </car>
+    <car id="768">
+        <coding>768</coding>
+        <name>PROTON Iriz</name>
+        <location>Sydney</location>
+        <price>243406</price>
+        <year>2001</year>
+    </car>
+    <car id="769">
+        <coding>769</coding>
+        <name>KOENIGSEGG Gemera</name>
+        <location>Cocos Keeling Islands</location>
+        <price>795670</price>
+        <year>2003</year>
+    </car>
+    <car id="770">
+        <coding>770</coding>
+        <name>DODGE Durango</name>
+        <location>Christmas Island</location>
+        <price>538399</price>
+        <year>2012</year>
+    </car>
+    <car id="771">
+        <coding>771</coding>
+        <name>ISUZU MU-7</name>
+        <location>Geelong</location>
+        <price>469716</price>
+        <year>2003</year>
+    </car>
+    <car id="772">
+        <coding>772</coding>
+        <name>Zenvo TS1</name>
+        <location>Brisbane</location>
+        <price>206332</price>
+        <year>2013</year>
+    </car>
+    <car id="773">
+        <coding>773</coding>
+        <name>SUZUKI Ignis</name>
+        <location>Melbourne</location>
+        <price>901524</price>
+        <year>2013</year>
+    </car>
+    <car id="774">
+        <coding>774</coding>
+        <name>LANCIA Ypsilon</name>
+        <location>Wollongong</location>
+        <price>256843</price>
+        <year>2002</year>
+    </car>
+    <car id="775">
+        <coding>775</coding>
+        <name>SUBARU Legacy</name>
+        <location>Toowoomba</location>
+        <price>783288</price>
+        <year>2010</year>
+    </car>
+    <car id="776">
+        <coding>776</coding>
+        <name>TOYOTA Land Cruiser 200</name>
+        <location>Gold Coast</location>
+        <price>493599</price>
+        <year>2015</year>
+    </car>
+    <car id="777">
+        <coding>777</coding>
+        <name>MAZDA 2</name>
+        <location>Norfolk Island</location>
+        <price>826811</price>
+        <year>2006</year>
+    </car>
+    <car id="778">
+        <coding>778</coding>
+        <name>CADILLAC CT5-V</name>
+        <location>Townsville</location>
+        <price>338951</price>
+        <year>2017</year>
+    </car>
+    <car id="779">
+        <coding>779</coding>
+        <name>LOTUS Evija</name>
+        <location>Christmas Island</location>
+        <price>950136</price>
+        <year>2003</year>
+    </car>
+    <car id="780">
+        <coding>780</coding>
+        <name>KOENIGSEGG Gemera</name>
+        <location>Melbourne</location>
+        <price>697964</price>
+        <year>2002</year>
+    </car>
+    <car id="781">
+        <coding>781</coding>
+        <name>Karma Revero GT</name>
+        <location>Hobart</location>
+        <price>810316</price>
+        <year>2009</year>
+    </car>
+    <car id="782">
+        <coding>782</coding>
+        <name>Pininfarina Battista</name>
+        <location>Gold Coast</location>
+        <price>647225</price>
+        <year>2007</year>
+    </car>
+    <car id="783">
+        <coding>783</coding>
+        <name>MINI Clubman</name>
+        <location>Townsville</location>
+        <price>561516</price>
+        <year>2000</year>
+    </car>
+    <car id="784">
+        <coding>784</coding>
+        <name>FIAT 500e</name>
+        <location>Adelaide</location>
+        <price>801403</price>
+        <year>2017</year>
+    </car>
+    <car id="785">
+        <coding>785</coding>
+        <name>DACIA Sandero</name>
+        <location>Jervis Bay</location>
+        <price>945111</price>
+        <year>2009</year>
+    </car>
+    <car id="786">
+        <coding>786</coding>
+        <name>KTM X-Bow GT</name>
+        <location>Toowoomba</location>
+        <price>707940</price>
+        <year>2018</year>
+    </car>
+    <car id="787">
+        <coding>787</coding>
+        <name>TESLA MOTORS Model S</name>
+        <location>Cairns</location>
+        <price>85974</price>
+        <year>2000</year>
+    </car>
+    <car id="788">
+        <coding>788</coding>
+        <name>DACIA Sandero</name>
+        <location>Geelong</location>
+        <price>637846</price>
+        <year>2017</year>
+    </car>
+    <car id="789">
+        <coding>789</coding>
+        <name>SSANGYONG Korando</name>
+        <location>Cocos Keeling Islands</location>
+        <price>456626</price>
+        <year>2013</year>
+    </car>
+    <car id="790">
+        <coding>790</coding>
+        <name>BUGATTI Chiron Super Sport 300+</name>
+        <location>Cairns</location>
+        <price>568000</price>
+        <year>2007</year>
+    </car>
+    <car id="791">
+        <coding>791</coding>
+        <name>DODGE Charger SRT Hellcat Widebody</name>
+        <location>Newcastle</location>
+        <price>118421</price>
+        <year>2017</year>
+    </car>
+    <car id="792">
+        <coding>792</coding>
+        <name>ARO M59</name>
+        <location>Jervis Bay</location>
+        <price>287898</price>
+        <year>2014</year>
+    </car>
+    <car id="793">
+        <coding>793</coding>
+        <name>CITROEN C4</name>
+        <location>Melbourne</location>
+        <price>16469</price>
+        <year>2019</year>
+    </car>
+    <car id="794">
+        <coding>794</coding>
+        <name>HUMMER H2 SUT</name>
+        <location>Sydney</location>
+        <price>851282</price>
+        <year>2010</year>
+    </car>
+    <car id="795">
+        <coding>795</coding>
+        <name>PROTON Perdana</name>
+        <location>Cairns</location>
+        <price>942445</price>
+        <year>2009</year>
+    </car>
+    <car id="796">
+        <coding>796</coding>
+        <name>CHRYSLER 300</name>
+        <location>Caloundra</location>
+        <price>910560</price>
+        <year>2007</year>
+    </car>
+    <car id="797">
+        <coding>797</coding>
+        <name>KTM X-Bow RR</name>
+        <location>Gold Coast</location>
+        <price>656987</price>
+        <year>2013</year>
+    </car>
+    <car id="798">
+        <coding>798</coding>
+        <name>KOENIGSEGG Jesko</name>
+        <location>Sydney</location>
+        <price>529477</price>
+        <year>2001</year>
+    </car>
+    <car id="799">
+        <coding>799</coding>
+        <name>VOLKSWAGEN Passat GTE</name>
+        <location>Newcastle</location>
+        <price>920862</price>
+        <year>2019</year>
+    </car>
+    <car id="800">
+        <coding>800</coding>
+        <name>MERCURY Milan</name>
+        <location>Gold Coast</location>
+        <price>566935</price>
+        <year>2000</year>
+    </car>
+    <car id="801">
+        <coding>801</coding>
+        <name>PAGANI Imola</name>
+        <location>Canberra</location>
+        <price>771561</price>
+        <year>2018</year>
+    </car>
+    <car id="802">
+        <coding>802</coding>
+        <name>BUICK Encore GX</name>
+        <location>Sydney</location>
+        <price>822417</price>
+        <year>2019</year>
+    </car>
+    <car id="803">
+        <coding>803</coding>
+        <name>OPEL Insignia Grand Sport</name>
+        <location>Cocos Keeling Islands</location>
+        <price>149521</price>
+        <year>2019</year>
+    </car>
+    <car id="804">
+        <coding>804</coding>
+        <name>TOYOTA Land Cruiser 200</name>
+        <location>Norfolk Island</location>
+        <price>380930</price>
+        <year>2004</year>
+    </car>
+    <car id="805">
+        <coding>805</coding>
+        <name>ALFA ROMEO Stelvio Quadrifoglio</name>
+        <location>Norfolk Island</location>
+        <price>605654</price>
+        <year>2016</year>
+    </car>
+    <car id="806">
+        <coding>806</coding>
+        <name>FERRARI F8 Spider</name>
+        <location>Adelaide</location>
+        <price>872902</price>
+        <year>2009</year>
+    </car>
+    <car id="807">
+        <coding>807</coding>
+        <name>BENTLEY Mulliner Bacalar</name>
+        <location>Toowoomba</location>
+        <price>959339</price>
+        <year>2005</year>
+    </car>
+    <car id="808">
+        <coding>808</coding>
+        <name>MITSUBISHI ASX</name>
+        <location>Townsville</location>
+        <price>741956</price>
+        <year>2015</year>
+    </car>
+    <car id="809">
+        <coding>809</coding>
+        <name>BMW X7</name>
+        <location>Hobart</location>
+        <price>873596</price>
+        <year>2004</year>
+    </car>
+    <car id="810">
+        <coding>810</coding>
+        <name>KOENIGSEGG Gemera</name>
+        <location>Adelaide</location>
+        <price>541009</price>
+        <year>2005</year>
+    </car>
+    <car id="811">
+        <coding>811</coding>
+        <name>PORSCHE 911</name>
+        <location>Christmas Island</location>
+        <price>811581</price>
+        <year>2011</year>
+    </car>
+    <car id="812">
+        <coding>812</coding>
+        <name>CUPRA el-Born</name>
+        <location>Wollongong</location>
+        <price>914603</price>
+        <year>2020</year>
+    </car>
+    <car id="813">
+        <coding>813</coding>
+        <name>BUGATTI Centodieci</name>
+        <location>Geelong</location>
+        <price>946112</price>
+        <year>2012</year>
+    </car>
+    <car id="814">
+        <coding>814</coding>
+        <name>HINDUSTAN RTV</name>
+        <location>Gold Coast</location>
+        <price>912907</price>
+        <year>2020</year>
+    </car>
+    <car id="815">
+        <coding>815</coding>
+        <name>PERODUA Axia</name>
+        <location>Sydney</location>
+        <price>851387</price>
+        <year>2010</year>
+    </car>
+    <car id="816">
+        <coding>816</coding>
+        <name>PANOZ Roadster</name>
+        <location>Christmas Island</location>
+        <price>570327</price>
+        <year>2020</year>
+    </car>
+    <car id="817">
+        <coding>817</coding>
+        <name>SPYKER C8 Double 12 S</name>
+        <location>Christmas Island</location>
+        <price>73588</price>
+        <year>2000</year>
+    </car>
+    <car id="818">
+        <coding>818</coding>
+        <name>BUFORI MK I</name>
+        <location>Gold Coast</location>
+        <price>49145</price>
+        <year>2001</year>
+    </car>
+    <car id="819">
+        <coding>819</coding>
+        <name>MARUSSIA B2</name>
+        <location>Hobart</location>
+        <price>914538</price>
+        <year>2017</year>
+    </car>
+    <car id="820">
+        <coding>820</coding>
+        <name>GENESIS G90</name>
+        <location>Adelaide</location>
+        <price>766118</price>
+        <year>2005</year>
+    </car>
+    <car id="821">
+        <coding>821</coding>
+        <name>BUICK Regal</name>
+        <location>Norfolk Island</location>
+        <price>160092</price>
+        <year>2008</year>
+    </car>
+    <car id="822">
+        <coding>822</coding>
+        <name>KOENIGSEGG Jesko</name>
+        <location>Adelaide</location>
+        <price>307459</price>
+        <year>2003</year>
+    </car>
+    <car id="823">
+        <coding>823</coding>
+        <name>DS AUTOMOBILES DS 3 Crossback</name>
+        <location>Gold Coast</location>
+        <price>292461</price>
+        <year>2005</year>
+    </car>
+    <car id="824">
+        <coding>824</coding>
+        <name>ASTON MARTIN DBX</name>
+        <location>Caloundra</location>
+        <price>905160</price>
+        <year>2013</year>
+    </car>
+    <car id="825">
+        <coding>825</coding>
+        <name>CITROEN AMI</name>
+        <location>Newcastle</location>
+        <price>683118</price>
+        <year>2003</year>
+    </car>
+    <car id="826">
+        <coding>826</coding>
+        <name>SANTANA PS 10 Shortline</name>
+        <location>Townsville</location>
+        <price>15039</price>
+        <year>2010</year>
+    </car>
+    <car id="827">
+        <coding>827</coding>
+        <name>MAYBACH 62 Zeppelin</name>
+        <location>Perth</location>
+        <price>790486</price>
+        <year>2003</year>
+    </car>
+    <car id="828">
+        <coding>828</coding>
+        <name>KOENIGSEGG Agera RS</name>
+        <location>Newcastle</location>
+        <price>94489</price>
+        <year>2010</year>
+    </car>
+    <car id="829">
+        <coding>829</coding>
+        <name>RENAULT Talisman Estate</name>
+        <location>Hobart</location>
+        <price>114087</price>
+        <year>2019</year>
+    </car>
+    <car id="830">
+        <coding>830</coding>
+        <name>FERRARI Portofino M</name>
+        <location>Cocos Keeling Islands</location>
+        <price>675319</price>
+        <year>2000</year>
+    </car>
+    <car id="831">
+        <coding>831</coding>
+        <name>QOROS 3 City SUV</name>
+        <location>Newcastle</location>
+        <price>694328</price>
+        <year>2002</year>
+    </car>
+    <car id="832">
+        <coding>832</coding>
+        <name>PANOZ Esperante GTLM</name>
+        <location>Adelaide</location>
+        <price>424641</price>
+        <year>2017</year>
+    </car>
+    <car id="833">
+        <coding>833</coding>
+        <name>DR MOTOR dr CityCross</name>
+        <location>Cocos Keeling Islands</location>
+        <price>374591</price>
+        <year>2008</year>
+    </car>
+    <car id="834">
+        <coding>834</coding>
+        <name>HOLDEN Trax</name>
+        <location>Sydney</location>
+        <price>504232</price>
+        <year>2007</year>
+    </car>
+    <car id="835">
+        <coding>835</coding>
+        <name>TOYOTA Highlander</name>
+        <location>Christmas Island</location>
+        <price>929834</price>
+        <year>2000</year>
+    </car>
+    <car id="836">
+        <coding>836</coding>
+        <name>MASERATI Quattroporte Trofeo</name>
+        <location>Jervis Bay</location>
+        <price>786283</price>
+        <year>2011</year>
+    </car>
+    <car id="837">
+        <coding>837</coding>
+        <name>SEAT Leon Sportstourer</name>
+        <location>Perth</location>
+        <price>963363</price>
+        <year>2011</year>
+    </car>
+    <car id="838">
+        <coding>838</coding>
+        <name>Polestar Polestar 1</name>
+        <location>Jervis Bay</location>
+        <price>530982</price>
+        <year>2019</year>
+    </car>
+    <car id="839">
+        <coding>839</coding>
+        <name>SMART EQ forfour</name>
+        <location>Caloundra</location>
+        <price>150951</price>
+        <year>2012</year>
+    </car>
+    <car id="840">
+        <coding>840</coding>
+        <name>PEUGEOT 508 SW PSE</name>
+        <location>Sydney</location>
+        <price>528854</price>
+        <year>2017</year>
+    </car>
+    <car id="841">
+        <coding>841</coding>
+        <name>HONDA CR-V</name>
+        <location>Caloundra</location>
+        <price>79007</price>
+        <year>2003</year>
+    </car>
+    <car id="842">
+        <coding>842</coding>
+        <name>SUZUKI Swift</name>
+        <location>Wollongong</location>
+        <price>988290</price>
+        <year>2010</year>
+    </car>
+    <car id="843">
+        <coding>843</coding>
+        <name>FERRARI F8 Spider</name>
+        <location>Perth</location>
+        <price>40948</price>
+        <year>2015</year>
+    </car>
+    <car id="844">
+        <coding>844</coding>
+        <name>VAUXHALL Astra Sports Tourer</name>
+        <location>Jervis Bay</location>
+        <price>586185</price>
+        <year>2012</year>
+    </car>
+    <car id="845">
+        <coding>845</coding>
+        <name>AUDI S5 Cabriolet</name>
+        <location>Perth</location>
+        <price>263467</price>
+        <year>2006</year>
+    </car>
+    <car id="846">
+        <coding>846</coding>
+        <name>LANCIA Ypsilon</name>
+        <location>Wollongong</location>
+        <price>367138</price>
+        <year>2012</year>
+    </car>
+    <car id="847">
+        <coding>847</coding>
+        <name>OLDSMOBILE Aurora</name>
+        <location>Brisbane</location>
+        <price>531881</price>
+        <year>2015</year>
+    </car>
+    <car id="848">
+        <coding>848</coding>
+        <name>SAMSUNG SM 5</name>
+        <location>Toowoomba</location>
+        <price>584112</price>
+        <year>2002</year>
+    </car>
+    <car id="849">
+        <coding>849</coding>
+        <name>SANTANA PS 10 Pickup</name>
+        <location>Townsville</location>
+        <price>251225</price>
+        <year>2006</year>
+    </car>
+    <car id="850">
+        <coding>850</coding>
+        <name>PANOZ Avezzano</name>
+        <location>Christmas Island</location>
+        <price>601010</price>
+        <year>2009</year>
+    </car>
+    <car id="851">
+        <coding>851</coding>
+        <name>PROTON Iriz</name>
+        <location>Geelong</location>
+        <price>287289</price>
+        <year>2012</year>
+    </car>
+    <car id="852">
+        <coding>852</coding>
+        <name>TATA MOTORS Altroz</name>
+        <location>Christmas Island</location>
+        <price>345086</price>
+        <year>2010</year>
+    </car>
+    <car id="853">
+        <coding>853</coding>
+        <name>KOENIGSEGG Agera RS</name>
+        <location>Gold Coast</location>
+        <price>249256</price>
+        <year>2013</year>
+    </car>
+    <car id="854">
+        <coding>854</coding>
+        <name>MASERATI Quattroporte Trofeo</name>
+        <location>Sydney</location>
+        <price>64617</price>
+        <year>2011</year>
+    </car>
+    <car id="855">
+        <coding>855</coding>
+        <name>CADILLAC XT5</name>
+        <location>Newcastle</location>
+        <price>963147</price>
+        <year>2003</year>
+    </car>
+    <car id="856">
+        <coding>856</coding>
+        <name>ARIEL Nomad</name>
+        <location>Canberra</location>
+        <price>344775</price>
+        <year>2016</year>
+    </car>
+    <car id="857">
+        <coding>857</coding>
+        <name>HUMMER H2 SUT</name>
+        <location>Jervis Bay</location>
+        <price>352720</price>
+        <year>2009</year>
+    </car>
+    <car id="858">
+        <coding>858</coding>
+        <name>TATA MOTORS Harrier</name>
+        <location>Cairns</location>
+        <price>622121</price>
+        <year>2010</year>
+    </car>
+    <car id="859">
+        <coding>859</coding>
+        <name>PAGANI Huayra Roadster BC</name>
+        <location>Canberra</location>
+        <price>892048</price>
+        <year>2014</year>
+    </car>
+    <car id="860">
+        <coding>860</coding>
+        <name>MERCURY Milan</name>
+        <location>Melbourne</location>
+        <price>625653</price>
+        <year>2006</year>
+    </car>
+    <car id="861">
+        <coding>861</coding>
+        <name>MERCEDES BENZ B-Class</name>
+        <location>Newcastle</location>
+        <price>511395</price>
+        <year>2019</year>
+    </car>
+    <car id="862">
+        <coding>862</coding>
+        <name>LAMBORGHINI Huracan Evo RWD</name>
+        <location>Brisbane</location>
+        <price>509844</price>
+        <year>2006</year>
+    </car>
+    <car id="863">
+        <coding>863</coding>
+        <name>LEXUS LS</name>
+        <location>Sydney</location>
+        <price>465638</price>
+        <year>2012</year>
+    </car>
+    <car id="864">
+        <coding>864</coding>
+        <name>ALFA ROMEO MiTo</name>
+        <location>Geelong</location>
+        <price>642586</price>
+        <year>2004</year>
+    </car>
+    <car id="865">
+        <coding>865</coding>
+        <name>PORSCHE Panamera 4S Sport Turismo</name>
+        <location>Sydney</location>
+        <price>561853</price>
+        <year>2001</year>
+    </car>
+    <car id="866">
+        <coding>866</coding>
+        <name>OPEL Insignia Grand Sport</name>
+        <location>Perth</location>
+        <price>278480</price>
+        <year>2016</year>
+    </car>
+    <car id="867">
+        <coding>867</coding>
+        <name>ALPINE A110S</name>
+        <location>Caloundra</location>
+        <price>900288</price>
+        <year>2018</year>
+    </car>
+    <car id="868">
+        <coding>868</coding>
+        <name>HUMMER H3 Alpha</name>
+        <location>Hobart</location>
+        <price>535407</price>
+        <year>2018</year>
+    </car>
+    <car id="869">
+        <coding>869</coding>
+        <name>MCLAREN Elva</name>
+        <location>Geelong</location>
+        <price>820379</price>
+        <year>2015</year>
+    </car>
+    <car id="870">
+        <coding>870</coding>
+        <name>JAGUAR F-Pace</name>
+        <location>Sydney</location>
+        <price>509788</price>
+        <year>2014</year>
+    </car>
+    <car id="871">
+        <coding>871</coding>
+        <name>CATERHAM Super Seven 1600</name>
+        <location>Wollongong</location>
+        <price>841002</price>
+        <year>2005</year>
+    </car>
+    <car id="872">
+        <coding>872</coding>
+        <name>BUFORI MK I</name>
+        <location>Cocos Keeling Islands</location>
+        <price>363488</price>
+        <year>2015</year>
+    </car>
+    <car id="873">
+        <coding>873</coding>
+        <name>MARUSSIA B2</name>
+        <location>Wollongong</location>
+        <price>761631</price>
+        <year>2013</year>
+    </car>
+    <car id="874">
+        <coding>874</coding>
+        <name>MERCEDES BENZ E-Class</name>
+        <location>Perth</location>
+        <price>712781</price>
+        <year>2014</year>
+    </car>
+    <car id="875">
+        <coding>875</coding>
+        <name>GENESIS G90</name>
+        <location>Adelaide</location>
+        <price>208583</price>
+        <year>2001</year>
+    </car>
+    <car id="876">
+        <coding>876</coding>
+        <name>WIESMANN MF5 Roadster</name>
+        <location>Townsville</location>
+        <price>767299</price>
+        <year>2018</year>
+    </car>
+    <car id="877">
+        <coding>877</coding>
+        <name>RENAULT Talisman Estate</name>
+        <location>Wollongong</location>
+        <price>238043</price>
+        <year>2019</year>
+    </car>
+    <car id="878">
+        <coding>878</coding>
+        <name>PEUGEOT 508 PSE</name>
+        <location>Hobart</location>
+        <price>884413</price>
+        <year>2006</year>
+    </car>
+    <car id="879">
+        <coding>879</coding>
+        <name>MAZDA MX-30</name>
+        <location>Wollongong</location>
+        <price>895025</price>
+        <year>2014</year>
+    </car>
+    <car id="880">
+        <coding>880</coding>
+        <name>VOLVO XC90</name>
+        <location>Geelong</location>
+        <price>601958</price>
+        <year>2019</year>
+    </car>
+    <car id="881">
+        <coding>881</coding>
+        <name>DONKERVOORT D8</name>
+        <location>Norfolk Island</location>
+        <price>764972</price>
+        <year>2017</year>
+    </car>
+    <car id="882">
+        <coding>882</coding>
+        <name>DR MOTOR dr5</name>
+        <location>Cocos Keeling Islands</location>
+        <price>289747</price>
+        <year>2010</year>
+    </car>
+    <car id="883">
+        <coding>883</coding>
+        <name>ROLLS-ROYCE Phantom</name>
+        <location>Wollongong</location>
+        <price>842157</price>
+        <year>2006</year>
+    </car>
+    <car id="884">
+        <coding>884</coding>
+        <name>LAND ROVER Discovery Sport</name>
+        <location>Townsville</location>
+        <price>947785</price>
+        <year>2002</year>
+    </car>
+    <car id="885">
+        <coding>885</coding>
+        <name>CADILLAC Escalade</name>
+        <location>Townsville</location>
+        <price>436580</price>
+        <year>2006</year>
+    </car>
+    <car id="886">
+        <coding>886</coding>
+        <name>PANOZ Avezzano</name>
+        <location>Jervis Bay</location>
+        <price>886629</price>
+        <year>2007</year>
+    </car>
+    <car id="887">
+        <coding>887</coding>
+        <name>MORGAN Plus Six</name>
+        <location>Cairns</location>
+        <price>808525</price>
+        <year>2001</year>
+    </car>
+    <car id="888">
+        <coding>888</coding>
+        <name>LANCIA Ypsilon</name>
+        <location>Christmas Island</location>
+        <price>152827</price>
+        <year>2000</year>
+    </car>
+    <car id="889">
+        <coding>889</coding>
+        <name>MERCEDES BENZ B-Class</name>
+        <location>Cairns</location>
+        <price>787470</price>
+        <year>2007</year>
+    </car>
+    <car id="890">
+        <coding>890</coding>
+        <name>AUDI S4</name>
+        <location>Perth</location>
+        <price>49839</price>
+        <year>2008</year>
+    </car>
+    <car id="891">
+        <coding>891</coding>
+        <name>SUBARU Legacy</name>
+        <location>Toowoomba</location>
+        <price>559519</price>
+        <year>2001</year>
+    </car>
+    <car id="892">
+        <coding>892</coding>
+        <name>ALPINE A110S</name>
+        <location>Wollongong</location>
+        <price>202402</price>
+        <year>2020</year>
+    </car>
+    <car id="893">
+        <coding>893</coding>
+        <name>MERCURY Mariner</name>
+        <location>Newcastle</location>
+        <price>355050</price>
+        <year>2004</year>
+    </car>
+    <car id="894">
+        <coding>894</coding>
+        <name>Mahindra Verito</name>
+        <location>Toowoomba</location>
+        <price>809748</price>
+        <year>2017</year>
+    </car>
+    <car id="895">
+        <coding>895</coding>
+        <name>DS AUTOMOBILES DS 5</name>
+        <location>Jervis Bay</location>
+        <price>815740</price>
+        <year>2005</year>
+    </car>
+    <car id="896">
+        <coding>896</coding>
+        <name>MORGAN Plus Six</name>
+        <location>Adelaide</location>
+        <price>160610</price>
+        <year>2003</year>
+    </car>
+    <car id="897">
+        <coding>897</coding>
+        <name>DODGE Charger SRT Hellcat Widebody</name>
+        <location>Toowoomba</location>
+        <price>187656</price>
+        <year>2017</year>
+    </car>
+    <car id="898">
+        <coding>898</coding>
+        <name>MASERATI MC20</name>
+        <location>Geelong</location>
+        <price>500454</price>
+        <year>2012</year>
+    </car>
+    <car id="899">
+        <coding>899</coding>
+        <name>ROLLS-ROYCE Ghost</name>
+        <location>Townsville</location>
+        <price>564606</price>
+        <year>2011</year>
+    </car>
+    <car id="900">
+        <coding>900</coding>
+        <name>BUGATTI Chiron Pur Sport</name>
+        <location>Geelong</location>
+        <price>938851</price>
+        <year>2002</year>
+    </car>
+    <car id="901">
+        <coding>901</coding>
+        <name>TOYOTA Highlander</name>
+        <location>Cocos Keeling Islands</location>
+        <price>13397</price>
+        <year>2014</year>
+    </car>
+    <car id="902">
+        <coding>902</coding>
+        <name>MARUSSIA B1</name>
+        <location>Norfolk Island</location>
+        <price>882427</price>
+        <year>2011</year>
+    </car>
+    <car id="903">
+        <coding>903</coding>
+        <name>SMART EQ fortwo Cabrio</name>
+        <location>Gold Coast</location>
+        <price>130212</price>
+        <year>2010</year>
+    </car>
+    <car id="904">
+        <coding>904</coding>
+        <name>ARIEL Atom 500 V8</name>
+        <location>Newcastle</location>
+        <price>106330</price>
+        <year>2016</year>
+    </car>
+    <car id="905">
+        <coding>905</coding>
+        <name>JEEP Renegade</name>
+        <location>Melbourne</location>
+        <price>414764</price>
+        <year>2016</year>
+    </car>
+    <car id="906">
+        <coding>906</coding>
+        <name>MARUSSIA B1</name>
+        <location>Sydney</location>
+        <price>634626</price>
+        <year>2016</year>
+    </car>
+    <car id="907">
+        <coding>907</coding>
+        <name>HUMMER H2 SUT</name>
+        <location>Sydney</location>
+        <price>596419</price>
+        <year>2010</year>
+    </car>
+    <car id="908">
+        <coding>908</coding>
+        <name>VOLKSWAGEN T-Roc Cabriolet</name>
+        <location>Caloundra</location>
+        <price>997560</price>
+        <year>2010</year>
+    </car>
+    <car id="909">
+        <coding>909</coding>
+        <name>LANCIA Delta</name>
+        <location>Cocos Keeling Islands</location>
+        <price>613962</price>
+        <year>2014</year>
+    </car>
+    <car id="910">
+        <coding>910</coding>
+        <name>PANOZ Avezzano</name>
+        <location>Perth</location>
+        <price>411125</price>
+        <year>2018</year>
+    </car>
+    <car id="911">
+        <coding>911</coding>
+        <name>PORSCHE Panamera 4S Sport Turismo</name>
+        <location>Geelong</location>
+        <price>78187</price>
+        <year>2007</year>
+    </car>
+    <car id="912">
+        <coding>912</coding>
+        <name>DODGE Durango</name>
+        <location>Geelong</location>
+        <price>971847</price>
+        <year>2004</year>
+    </car>
+    <car id="913">
+        <coding>913</coding>
+        <name>DeLorean DMC-12</name>
+        <location>Brisbane</location>
+        <price>283994</price>
+        <year>2002</year>
+    </car>
+    <car id="914">
+        <coding>914</coding>
+        <name>SATURN Aura</name>
+        <location>Caloundra</location>
+        <price>167225</price>
+        <year>2016</year>
+    </car>
+    <car id="915">
+        <coding>915</coding>
+        <name>GEELY Emgrand EC718</name>
+        <location>Brisbane</location>
+        <price>206162</price>
+        <year>2004</year>
+    </car>
+    <car id="916">
+        <coding>916</coding>
+        <name>DR MOTOR dr CityCross</name>
+        <location>Geelong</location>
+        <price>899773</price>
+        <year>2012</year>
+    </car>
+    <car id="917">
+        <coding>917</coding>
+        <name>MASERATI MC20</name>
+        <location>Toowoomba</location>
+        <price>930492</price>
+        <year>2011</year>
+    </car>
+    <car id="918">
+        <coding>918</coding>
+        <name>Karma Revero GTS</name>
+        <location>Sydney</location>
+        <price>140054</price>
+        <year>2012</year>
+    </car>
+    <car id="919">
+        <coding>919</coding>
+        <name>CHRYSLER Pacifica</name>
+        <location>Perth</location>
+        <price>549490</price>
+        <year>2010</year>
+    </car>
+    <car id="920">
+        <coding>920</coding>
+        <name>OLDSMOBILE Intrigue</name>
+        <location>Sydney</location>
+        <price>731678</price>
+        <year>2009</year>
+    </car>
+    <car id="921">
+        <coding>921</coding>
+        <name>SANTANA 300 - 350</name>
+        <location>Geelong</location>
+        <price>409274</price>
+        <year>2019</year>
+    </car>
+    <car id="922">
+        <coding>922</coding>
+        <name>BUFORI MK I</name>
+        <location>Toowoomba</location>
+        <price>38665</price>
+        <year>2008</year>
+    </car>
+    <car id="923">
+        <coding>923</coding>
+        <name>MAYBACH 62 Zeppelin</name>
+        <location>Geelong</location>
+        <price>281882</price>
+        <year>2010</year>
+    </car>
+    <car id="924">
+        <coding>924</coding>
+        <name>WIESMANN GT MF4-CS</name>
+        <location>Canberra</location>
+        <price>453118</price>
+        <year>2019</year>
+    </car>
+    <car id="925">
+        <coding>925</coding>
+        <name>SEAT Leon Sportstourer</name>
+        <location>Norfolk Island</location>
+        <price>874662</price>
+        <year>2018</year>
+    </car>
+    <car id="926">
+        <coding>926</coding>
+        <name>KOENIGSEGG Jesko</name>
+        <location>Caloundra</location>
+        <price>898627</price>
+        <year>2014</year>
+    </car>
+    <car id="927">
+        <coding>927</coding>
+        <name>SUBARU WRX STI</name>
+        <location>Christmas Island</location>
+        <price>655921</price>
+        <year>2007</year>
+    </car>
+    <car id="928">
+        <coding>928</coding>
+        <name>RENAULT Talisman Estate</name>
+        <location>Toowoomba</location>
+        <price>982333</price>
+        <year>2008</year>
+    </car>
+    <car id="929">
+        <coding>929</coding>
+        <name>ASTON MARTIN Vantage Roadster</name>
+        <location>Caloundra</location>
+        <price>953526</price>
+        <year>2000</year>
+    </car>
+    <car id="930">
+        <coding>930</coding>
+        <name>ALFA ROMEO Giulia GTA</name>
+        <location>Brisbane</location>
+        <price>196098</price>
+        <year>2015</year>
+    </car>
+    <car id="931">
+        <coding>931</coding>
+        <name>TOYOTA Land Cruiser 200</name>
+        <location>Jervis Bay</location>
+        <price>860607</price>
+        <year>2009</year>
+    </car>
+    <car id="932">
+        <coding>932</coding>
+        <name>PEUGEOT 508 PSE</name>
+        <location>Adelaide</location>
+        <price>554689</price>
+        <year>2015</year>
+    </car>
+    <car id="933">
+        <coding>933</coding>
+        <name>BRISTOL Bullet</name>
+        <location>Brisbane</location>
+        <price>360082</price>
+        <year>2009</year>
+    </car>
+    <car id="934">
+        <coding>934</coding>
+        <name>CATERHAM Seven 620 R</name>
+        <location>Townsville</location>
+        <price>516410</price>
+        <year>2018</year>
+    </car>
+    <car id="935">
+        <coding>935</coding>
+        <name>ZENDER Thirty 7</name>
+        <location>Jervis Bay</location>
+        <price>627146</price>
+        <year>2010</year>
+    </car>
+    <car id="936">
+        <coding>936</coding>
+        <name>CADILLAC Escalade</name>
+        <location>Townsville</location>
+        <price>949132</price>
+        <year>2003</year>
+    </car>
+    <car id="937">
+        <coding>937</coding>
+        <name>HONDA Jazz</name>
+        <location>Wollongong</location>
+        <price>616427</price>
+        <year>2009</year>
+    </car>
+    <car id="938">
+        <coding>938</coding>
+        <name>MAZDA BT-50</name>
+        <location>Norfolk Island</location>
+        <price>592120</price>
+        <year>2011</year>
+    </car>
+    <car id="939">
+        <coding>939</coding>
+        <name>ALPINE A110S</name>
+        <location>Perth</location>
+        <price>177983</price>
+        <year>2018</year>
+    </car>
+    <car id="940">
+        <coding>940</coding>
+        <name>ARIEL Atom 500 V8</name>
+        <location>Melbourne</location>
+        <price>291615</price>
+        <year>2020</year>
+    </car>
+    <car id="941">
+        <coding>941</coding>
+        <name>BUICK Regal Sportback</name>
+        <location>Caloundra</location>
+        <price>393815</price>
+        <year>2012</year>
+    </car>
+    <car id="942">
+        <coding>942</coding>
+        <name>ALPINE A110S</name>
+        <location>Jervis Bay</location>
+        <price>885577</price>
+        <year>2002</year>
+    </car>
+    <car id="943">
+        <coding>943</coding>
+        <name>SPYKER C12 LaTurbie</name>
+        <location>Norfolk Island</location>
+        <price>984079</price>
+        <year>2010</year>
+    </car>
+    <car id="944">
+        <coding>944</coding>
+        <name>CADILLAC Escalade</name>
+        <location>Perth</location>
+        <price>650535</price>
+        <year>2013</year>
+    </car>
+    <car id="945">
+        <coding>945</coding>
+        <name>PANOZ Roadster</name>
+        <location>Jervis Bay</location>
+        <price>819678</price>
+        <year>2014</year>
+    </car>
+    <car id="946">
+        <coding>946</coding>
+        <name>PERODUA Myvi</name>
+        <location>Newcastle</location>
+        <price>450967</price>
+        <year>2017</year>
+    </car>
+    <car id="947">
+        <coding>947</coding>
+        <name>HYUNDAI Elantra N Line</name>
+        <location>Gold Coast</location>
+        <price>895417</price>
+        <year>2008</year>
+    </car>
+    <car id="948">
+        <coding>948</coding>
+        <name>BUFORI MK I</name>
+        <location>Brisbane</location>
+        <price>229143</price>
+        <year>2012</year>
+    </car>
+    <car id="949">
+        <coding>949</coding>
+        <name>ZENDER Thirty 7</name>
+        <location>Canberra</location>
+        <price>455387</price>
+        <year>2010</year>
+    </car>
+    <car id="950">
+        <coding>950</coding>
+        <name>LANCIA Ypsilon</name>
+        <location>Cairns</location>
+        <price>420856</price>
+        <year>2006</year>
+    </car>
+    <car id="951">
+        <coding>951</coding>
+        <name>MARUSSIA B1</name>
+        <location>Geelong</location>
+        <price>969774</price>
+        <year>2003</year>
+    </car>
+    <car id="952">
+        <coding>952</coding>
+        <name>QOROS 3 Hatchbach</name>
+        <location>Jervis Bay</location>
+        <price>349968</price>
+        <year>2008</year>
+    </car>
+    <car id="953">
+        <coding>953</coding>
+        <name>BMW 7 Series LCI</name>
+        <location>Adelaide</location>
+        <price>239759</price>
+        <year>2003</year>
+    </car>
+    <car id="954">
+        <coding>954</coding>
+        <name>DAIHATSU Sirion</name>
+        <location>Townsville</location>
+        <price>752222</price>
+        <year>2020</year>
+    </car>
+    <car id="955">
+        <coding>955</coding>
+        <name>SALEEN S7</name>
+        <location>Hobart</location>
+        <price>734709</price>
+        <year>2014</year>
+    </car>
+    <car id="956">
+        <coding>956</coding>
+        <name>OPEL Mokka-e</name>
+        <location>Cairns</location>
+        <price>996213</price>
+        <year>2020</year>
+    </car>
+    <car id="957">
+        <coding>957</coding>
+        <name>LADA Kalina Sedan</name>
+        <location>Sydney</location>
+        <price>83303</price>
+        <year>2004</year>
+    </car>
+    <car id="958">
+        <coding>958</coding>
+        <name>PANOZ Avezzano</name>
+        <location>Christmas Island</location>
+        <price>626983</price>
+        <year>2009</year>
+    </car>
+    <car id="959">
+        <coding>959</coding>
+        <name>BRISTOL Fighter T</name>
+        <location>Jervis Bay</location>
+        <price>197815</price>
+        <year>2011</year>
+    </car>
+    <car id="960">
+        <coding>960</coding>
+        <name>MG ZS</name>
+        <location>Cocos Keeling Islands</location>
+        <price>255152</price>
+        <year>2019</year>
+    </car>
+    <car id="961">
+        <coding>961</coding>
+        <name>ACURA MDX A-Spec</name>
+        <location>Jervis Bay</location>
+        <price>478204</price>
+        <year>2010</year>
+    </car>
+    <car id="962">
+        <coding>962</coding>
+        <name>ROLLS-ROYCE Phantom</name>
+        <location>Perth</location>
+        <price>32013</price>
+        <year>2013</year>
+    </car>
+    <car id="963">
+        <coding>963</coding>
+        <name>CATERHAM Super Seven 1600</name>
+        <location>Geelong</location>
+        <price>190198</price>
+        <year>2015</year>
+    </car>
+    <car id="964">
+        <coding>964</coding>
+        <name>HOLDEN Captiva</name>
+        <location>Hobart</location>
+        <price>138528</price>
+        <year>2015</year>
+    </car>
+    <car id="965">
+        <coding>965</coding>
+        <name>Polestar Polestar 2</name>
+        <location>Townsville</location>
+        <price>709060</price>
+        <year>2013</year>
+    </car>
+    <car id="966">
+        <coding>966</coding>
+        <name>ALPINE A106</name>
+        <location>Brisbane</location>
+        <price>43653</price>
+        <year>2016</year>
+    </car>
+    <car id="967">
+        <coding>967</coding>
+        <name>MAYBACH 62 Zeppelin</name>
+        <location>Cairns</location>
+        <price>548205</price>
+        <year>2017</year>
+    </car>
+    <car id="968">
+        <coding>968</coding>
+        <name>GENESIS G90</name>
+        <location>Adelaide</location>
+        <price>464923</price>
+        <year>2012</year>
+    </car>
+    <car id="969">
+        <coding>969</coding>
+        <name>HONDA Odyssey</name>
+        <location>Townsville</location>
+        <price>99352</price>
+        <year>2007</year>
+    </car>
+    <car id="970">
+        <coding>970</coding>
+        <name>LINCOLN Aviator</name>
+        <location>Newcastle</location>
+        <price>331715</price>
+        <year>2007</year>
+    </car>
+    <car id="971">
+        <coding>971</coding>
+        <name>BUICK Regal Sportback</name>
+        <location>Melbourne</location>
+        <price>588395</price>
+        <year>2016</year>
+    </car>
+    <car id="972">
+        <coding>972</coding>
+        <name>SALEEN S7</name>
+        <location>Brisbane</location>
+        <price>109139</price>
+        <year>2012</year>
+    </car>
+    <car id="973">
+        <coding>973</coding>
+        <name>KIA Rio</name>
+        <location>Adelaide</location>
+        <price>808662</price>
+        <year>2011</year>
+    </car>
+    <car id="974">
+        <coding>974</coding>
+        <name>HONDA Jazz</name>
+        <location>Caloundra</location>
+        <price>317971</price>
+        <year>2013</year>
+    </car>
+    <car id="975">
+        <coding>975</coding>
+        <name>SUBARU WRX STI</name>
+        <location>Brisbane</location>
+        <price>390750</price>
+        <year>2000</year>
+    </car>
+    <car id="976">
+        <coding>976</coding>
+        <name>SPYKER C8 Double 12 S</name>
+        <location>Toowoomba</location>
+        <price>173561</price>
+        <year>2017</year>
+    </car>
+    <car id="977">
+        <coding>977</coding>
+        <name>LEXUS LC 500 Convertible</name>
+        <location>Brisbane</location>
+        <price>795623</price>
+        <year>2019</year>
+    </car>
+    <car id="978">
+        <coding>978</coding>
+        <name>GENESIS G90</name>
+        <location>Wollongong</location>
+        <price>524149</price>
+        <year>2005</year>
+    </car>
+    <car id="979">
+        <coding>979</coding>
+        <name>LANCIA Ypsilon</name>
+        <location>Townsville</location>
+        <price>415126</price>
+        <year>2003</year>
+    </car>
+    <car id="980">
+        <coding>980</coding>
+        <name>NISSAN Rogue</name>
+        <location>Melbourne</location>
+        <price>666516</price>
+        <year>2015</year>
+    </car>
+    <car id="981">
+        <coding>981</coding>
+        <name>Pininfarina Battista</name>
+        <location>Toowoomba</location>
+        <price>211628</price>
+        <year>2008</year>
+    </car>
+    <car id="982">
+        <coding>982</coding>
+        <name>TOYOTA Land Cruiser 200</name>
+        <location>Brisbane</location>
+        <price>644403</price>
+        <year>2017</year>
+    </car>
+    <car id="983">
+        <coding>983</coding>
+        <name>DAEWOO Nubira Estate</name>
+        <location>Wollongong</location>
+        <price>935952</price>
+        <year>2000</year>
+    </car>
+    <car id="984">
+        <coding>984</coding>
+        <name>PAGANI Huayra Roadster BC</name>
+        <location>Geelong</location>
+        <price>92620</price>
+        <year>2009</year>
+    </car>
+    <car id="985">
+        <coding>985</coding>
+        <name>MCLAREN Elva</name>
+        <location>Christmas Island</location>
+        <price>930270</price>
+        <year>2010</year>
+    </car>
+    <car id="986">
+        <coding>986</coding>
+        <name>WIESMANN GT MF5</name>
+        <location>Canberra</location>
+        <price>777288</price>
+        <year>2018</year>
+    </car>
+    <car id="987">
+        <coding>987</coding>
+        <name>HOLDEN Trax</name>
+        <location>Townsville</location>
+        <price>800165</price>
+        <year>2008</year>
+    </car>
+    <car id="988">
+        <coding>988</coding>
+        <name>HYUNDAI Elantra N Line</name>
+        <location>Toowoomba</location>
+        <price>430125</price>
+        <year>2004</year>
+    </car>
+    <car id="989">
+        <coding>989</coding>
+        <name>TATA MOTORS Harrier</name>
+        <location>Cairns</location>
+        <price>697517</price>
+        <year>2020</year>
+    </car>
+    <car id="990">
+        <coding>990</coding>
+        <name>HONDA CR-V</name>
+        <location>Toowoomba</location>
+        <price>372225</price>
+        <year>2001</year>
+    </car>
+    <car id="991">
+        <coding>991</coding>
+        <name>HINDUSTAN RTV</name>
+        <location>Cairns</location>
+        <price>953395</price>
+        <year>2000</year>
+    </car>
+    <car id="992">
+        <coding>992</coding>
+        <name>MARUSSIA B2</name>
+        <location>Brisbane</location>
+        <price>170247</price>
+        <year>2003</year>
+    </car>
+    <car id="993">
+        <coding>993</coding>
+        <name>CHRYSLER Pacifica</name>
+        <location>Canberra</location>
+        <price>217651</price>
+        <year>2012</year>
+    </car>
+    <car id="994">
+        <coding>994</coding>
+        <name>DATSUN on-Do</name>
+        <location>Caloundra</location>
+        <price>335452</price>
+        <year>2004</year>
+    </car>
+    <car id="995">
+        <coding>995</coding>
+        <name>ZENDER Thirty 7</name>
+        <location>Toowoomba</location>
+        <price>359380</price>
+        <year>2020</year>
+    </car>
+    <car id="996">
+        <coding>996</coding>
+        <name>GEELY Emgrand EC718</name>
+        <location>Newcastle</location>
+        <price>663503</price>
+        <year>2015</year>
+    </car>
+    <car id="997">
+        <coding>997</coding>
+        <name>ACURA ILX</name>
+        <location>Sydney</location>
+        <price>899929</price>
+        <year>2008</year>
+    </car>
+    <car id="998">
+        <coding>998</coding>
+        <name>PONTIAC Bonneville</name>
+        <location>Townsville</location>
+        <price>870479</price>
+        <year>2020</year>
+    </car>
+    <car id="999">
+        <coding>999</coding>
+        <name>NISSAN Sentra</name>
+        <location>Cocos Keeling Islands</location>
+        <price>647637</price>
+        <year>2020</year>
+    </car>
+</cars>

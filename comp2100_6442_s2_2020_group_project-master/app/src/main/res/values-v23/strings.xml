@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textview_name">TextView</string>
+    <string name="textview_location">TextView</string>
+    <string name="textview_price">TextView</string>
+</resources>
